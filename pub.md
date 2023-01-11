@@ -221,6 +221,18 @@ _IEEE-EMBS International Conference on Biomedical and Health Informatics (**BHI*
 [P1] Lesion classification apparatus, and method of modifying lesion classification data (US 9,547,896)                                
 
 ### Preprint
+- **[T7]**  Improved Abdominal Multi-Organ Segmentation via 3D Boundary-Constrained Deep Neural Networks                                
+Samra Irshad, Douglas P. S. Gomes, Seong Tae Kim                              
+_arXiv:2210.04285_, 2022 
+
+- **[T6]**  Interactive Segmentation for COVID-19 Infection Quantification on Longitudinal CT scans             
+Michelle Xiao-Lin Foo, **Seong Tae Kim***, Magdalini Paschali, Leili Goli, Egon Burian, Marcus Makowski, Rickmer Braren, Nassir Navab, Thomas Wendler               
+_arXiv:2110.00948_, 2021 
+
+- **[T5]**  GLOWin: A Flow-based Invertible Generative Framework for Learning Disentangled Feature Representations in Medical Images             
+Aadhithya Sankar, Matthias Keicher, Rami Eisawy, Abhijeet Parida, Franz Pfister, **Seong Tae Kim***, Nassir Navab               
+_arXiv:2103.10868_, 2021 
+
 - **[T4]**  Efficient Ensemble Model Generation for Uncertainty Estimation with Bayesian Approximation in Segmentation         
 Hong Joo Lee*, **Seong Tae Kim***(co-first), Hakmin Lee, Nassir Navab, Yong Man Ro            
 _arXiv:2004.02200_, 2020 
