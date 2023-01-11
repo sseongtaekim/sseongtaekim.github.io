@@ -8,7 +8,7 @@ subtitle: AI Lab Family
 
 #### Samra Irshad
   
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/Sam.jpg" width="200" height="265" align="left" hspace="20" />
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/Samrish.jpg" width="200" height="265" align="left" hspace="20" />
 PhD Student (2022.9~)        
 
 Department of Computer Science and Engineering, Kyung Hee University         
