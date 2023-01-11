@@ -6,10 +6,10 @@ subtitle: Publications
 *Corresponding Author
 
 ### 2022
-- **[C35]** Exploiting Diversity of Unlabeled Data for Label-Efficient Semi-Supervised Active Learning               
+- **[C36]** Exploiting Diversity of Unlabeled Data for Label-Efficient Semi-Supervised Active Learning               
 Felix Buchert, Nassir Navab, **Seong Tae Kim***              
 _International Conference on Pattern Recognition (**ICPR**)_, 2022 (Montreal)
-- **[C34]** Analyzing the Effects of Handling Data Imbalance on Learned Features by Looking Into the Models               
+- **[C35]** Analyzing the Effects of Handling Data Imbalance on Learned Features by Looking Into the Models               
 Ashkan Khakzar, Yawei Li, Yang Zhang, Mirac Sanisoglu, **Seong Tae Kim**, Mina Rezaei, Bernd Bischl, Nassir Navab              
 _ICML Interpretable Machine Learning in Healthcare Workshop (**ICML Workshop**)_, 2022 (Baltimore)
 - **[J13]**  Robust Perturbation for Visual Explanation: Cross-checking Mask Optimization to Avoid Class Distortion                      
