@@ -7,13 +7,13 @@ subtitle: AI Lab Family
 ### Principal Investigator
 <hr>
 
-#### Seong Tae 
+#### Seong Tae Kim
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/SeongTae_Kim.jpg" width="200" height="265" align="left" hspace="20" />
-Assistant Professor          
-School of Computing        
-College of Software           
-Kyung Hee University        
+* Assistant Professor          
+* School of Computing        
+* College of Software           
+* Kyung Hee University        
 
 **Contact**  
 st.kim@khu.ac.kr  
