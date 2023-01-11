@@ -5,8 +5,8 @@ subtitle: <b>A</b>ugmented <b>I</b>ntelligence  Laboratory
 published: true
 ---
 
-Welcome to **AI Lab** at **Kyung Hee University**! 
-Augmented Intelligence means we are studying AI for humanity.
+Welcome to **AI Lab** at **Kyung Hee University**!             
+Augmented Intelligence means we are studying AI for humanity.                    
 Key Technologies: Explainability, Reliability, Responsiblity, Data-Efficiency, Human-level Understanding 
 
 ### Our Mission: 
