@@ -7,7 +7,7 @@ subtitle: AI Lab Family
 #### MS students
 * [Enki Cho](students/EnkiCho.md) (Student Representative)
 * [Yong Hyun Ahn](students/YongHyunAhn.md)
-* [Minkuk Kim](students/minkukkim.md)
+* [Minkuk Kim](students/MinKukKim.md)
 * [Soyeon One](students/SoyeonOne.md)
 * [Hyeonbae Kim] (2023.03~)
 * [Yebin Ji] (2023.03~)
