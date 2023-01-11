@@ -12,11 +12,11 @@ subtitle: Publications
 
 ### Before 2021
 - **[C10]**  Facial dynamic modelling using long short-term memory network: Analysis and application to face authentication         
-**Seong Tae Kim***, Dae Hoe Kim, Yong Man Ro           
+**Seong Tae Kim**, Dae Hoe Kim, Yong Man Ro           
 _IEEE International Conference on Biometrics: Thoery, Applications, and Systems (**BTAS**)_, 2016 (Buffalo)
 
 - **[C9]**  Spatio-temporal representation for face authentication by using multi-task learning with human attributes        
-**Seong Tae Kim***, Dae Hoe Kim, Yong Man Ro           
+**Seong Tae Kim**, Dae Hoe Kim, Yong Man Ro           
 _IEEE International Conference on Image Processing (**ICIP**)_, 2016 (Phoenix)
 
 - **[C8]**  A deep facial landmarks detection with facial contour and facial components constraint        
@@ -28,7 +28,7 @@ Dae Hoe Kim, **Seong Tae Kim**, Yong Man Ro
 _IEEE International Conference on Acoustics, speech and signal processing (**ICASSP**)_, 2016 (Shanghai)
 
 - **[J3]**  Detection of masses in digital breast tomosynthesis using complementary information of simulated projection           
-**Seong Tae Kim***, Dae Hoe Kim, Yong Man Ro 
+**Seong Tae Kim**, Dae Hoe Kim, Yong Man Ro 
 _Medical Physics (**MP**)_, 2015
 
 - **[J2]**  Improving mass detection using combined feature representations from projection views and reconstructed volume of DBT and boosting based classification with feature selection             
