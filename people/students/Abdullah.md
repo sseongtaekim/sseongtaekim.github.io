@@ -15,7 +15,7 @@ Department of Computer Science and Engineering, Kyung Hee University (2022.3~)
             
 
 **Contact**  
-ameer@khu.ac.kr                       
+abdullahijaz@khu.ac.kr                       
 #351, Electronic Information College Building, 1732 Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi-do, 17104, South Korea  
 
 #### Research Interest
