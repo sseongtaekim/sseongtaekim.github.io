@@ -9,9 +9,9 @@ subtitle: AI Lab Family
 #### Yong Hyun Ahn
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/YongHyunAhn.jpg" width="200" height="265" align="left" hspace="20" />
-Master Student        
+Master Student (2022.3~)       
 
-Department of Artificial Intelligence, Kyung Hee University (2022.3~)        
+Department of Artificial Intelligence, Kyung Hee University         
             
 
 **Contact**  
