@@ -15,7 +15,7 @@ Department of Artificial Intelligence, Kyung Hee University (2022.9~)
             
 
 **Contact**  
-yhahn@khu.ac.kr                       
+asdjklfgh97@khu.ac.kr                       
 #326, Electronic Information College Building, 1732 Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi-do, 17104, South Korea  
 
 #### Research Interest
