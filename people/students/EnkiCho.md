@@ -14,7 +14,8 @@ Master Student, Department of Computer Science and Engineering, Kyung Hee Univer
 **Student Representative**
 
 **Contact**  
-cekkec@khu.ac.kr
+cekkec@khu.ac.kr                       
+
 #326, Electronic Information College Building, 1732 Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi-do, 17104, South Korea  
  
 <hr>
