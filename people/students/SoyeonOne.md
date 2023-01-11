@@ -9,9 +9,9 @@ subtitle: AI Lab Family
 #### So Yeon One
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/SoyeonOne.jpg" width="200" height="265" align="left" hspace="20" />
-Master Student        
+Master Student (2022.9~)        
 
-Department of Computer Science and Engineering, Kyung Hee University (2022.9~)        
+Department of Computer Science and Engineering, Kyung Hee University         
             
 
 **Contact**  
