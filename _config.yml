@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Augmented Intelligence Lab. @ Kyung Hee University
+title: Augmented Intelligence Lab @ Kyung Hee University
 
 # Your name to show in the footer
-author: Prof. Seong tae Kim
+author: Prof. Seong Tae Kim
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -25,7 +25,7 @@ navbar-links:
     - PI: "people/pi"
     - Students: "people/students"
   Research: 
-    - Projects: "projects/project"
+    - Projects: "project"
     - Publications: "pub"
   Teaching: "teaching"
   Photos: "photo"
