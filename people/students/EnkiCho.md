@@ -8,7 +8,7 @@ subtitle: AI Lab Family
 
 #### Enki Cho
   
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/EnkiCho.png" width="200" height="265" align="left" hspace="20" />
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/EnkiCho.jpg" width="200" height="265" align="left" hspace="20" />
 Master Student        
 Department of Computer Science and Engineering, Kyung Hee University (2022.3~)        
 **Student Representative**            
