@@ -10,21 +10,25 @@
 ############################
 
 # Name of website
-title: My Website
+title: Augmented Intelligence Lab. @ Kyung Hee University
 
 # Your name to show in the footer
-author: Some Person
+author: Prof. Seong tae Kim
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  News: 
+  People: 
+    - PI: "people/pi"
+    - Students: "people/students"
+  Research: 
+    - Projects: "projects/project"
+    - Publications: "pub"
+  Teaching: "teaching"
+  Photos: "photo"
 
 ################
 # --- Logo --- #
@@ -46,36 +50,7 @@ round-avatar: true
 # --- Footer social media links --- #
 #####################################
 
-# Select the social network links that you want to show in the footer.
-# Uncomment the links you want to show and add your information to each one.
-social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
-#  kaggle: yourname
-#  hackerrank: yourname
+
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -87,9 +62,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
