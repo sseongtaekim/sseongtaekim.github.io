@@ -12,7 +12,7 @@ subtitle: AI Lab Family
 Master Student        
 
 Department of Artificial Intelligence, Kyung Hee University (2022.3~)        
-**Student Representative**            
+            
 
 **Contact**  
 yhahn@khu.ac.kr                       
