@@ -11,9 +11,9 @@ subtitle: AI Lab Family
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/SeongTae_Kim.jpg" width="200" height="265" align="left" hspace="20" />
 Assistant Professor   
-[School of Computing](https://ce.khu.ac.kr)  
-[College of Software]()  
-[Kyung Hee University](http://www.khu.ac.kr)   
+School of Computing
+College of Software
+Kyung Hee University 
 
 **Contact**  
 st.kim@khu.ac.kr  
@@ -24,17 +24,18 @@ st.kim@khu.ac.kr
 <hr>
 
 #### Education 
-* PhD, [School of Electrical Engineering](), [KAIST]() (2019)  
-* MS, [Department of Electrical Engineering](), [KAIST]() (2014)  
-* BS, [School of Electrical Engineering](), [Korea University]() (2012)  
+* PhD, School of Electrical Engineering, KAIST (2019)  
+* MS, Department of Electrical Engineering, KAIST (2014)  
+* BS, School of Electrical Engineering, Korea University (2012)  
   
 #### Work Experience
 
-* Assistant Professor, [Department of Computer Science and Engineering], [Kyung Hee University] (2021.3~)
-* Senior Research Scientist, [Chair for Computer Aided Medical Procedures], [Department of Informatics](), [Technical University of Munich]() (2019.3~2021.2)
-* Visiting Researcher, [University of Toronto]() (2015)
+* Assistant Professor, Department of Computer Science and Engineering, Kyung Hee University (2021.3~)
+* Senior Research Scientist, Chair for Computer Aided Medical Procedures, Department of Informatics, Technical University of Munich (2019.3~2021.2)
+* Visiting Researcher, University of Toronto (2015)
 
 #### Professional Services
 * Organizing Committee - MICCAI 2025
-* Associate Editor / Area Chair - IEEE Transactions on Circuits and Systems for Video Technology (2022.1~), _MICCAI 2022_
+* Associate Editor - IEEE Transactions on Circuits and Systems for Video Technology (2022.1~) 
+* Area Chair - _MICCAI 2022_
 * Reviewer / Program Committee - _NeurIPS_, _CVPR_, _ICCV_, _ECCV_, _ICLR_, _AAAI_, _MICCAI_, _IROS_, etc. 
