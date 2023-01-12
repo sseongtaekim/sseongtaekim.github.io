@@ -21,7 +21,7 @@ title: Teaching
 #### Fall
 - CSE203 Computer Architecture (Undergraduate)
 - GEE1952-G12	Major exploring and Entrepreneurship Seminar (Undergraduate)
--
+
 #### Spring
 - CSE203 Computer Architecture (Undergraduate)
 - CSE7102 Optimization Theory (Graduate)
