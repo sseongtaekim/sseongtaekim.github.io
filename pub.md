@@ -194,7 +194,7 @@ Dae Hoe Kim, **Seong Tae Kim**, Yong Man Ro
 _SPIE Medical Imaging (**MI**)_, 2015 (Orlando)
 
 - **[J1]**  Breast mass detection using slice conspicuity in 3D reconstructed digital breast volumes         
-**Seong Tae Kim***, Dae Hoe Kim, Yong Man Ro                 
+**Seong Tae Kim**, Dae Hoe Kim, Yong Man Ro                 
 _Physics in Medicine and Biology (**PMB**)_, 2014
 
 - **[C2]**  Generation of conspicuity-improved synthetic image from digital breast tomosynthesis (**Oral**)        
@@ -222,7 +222,7 @@ _IEEE-EMBS International Conference on Biomedical and Health Informatics (**BHI*
 
 ### Preprint
 - **[T7]**  Improved Abdominal Multi-Organ Segmentation via 3D Boundary-Constrained Deep Neural Networks                                
-Samra Irshad, Douglas P. S. Gomes, Seong Tae Kim                              
+**Samra Irshad**, Douglas P. S. Gomes, **Seong Tae Kim***                              
 _arXiv:2210.04285_, 2022 
 
 - **[T6]**  Interactive Segmentation for COVID-19 Infection Quantification on Longitudinal CT scans             
@@ -234,11 +234,11 @@ Aadhithya Sankar, Matthias Keicher, Rami Eisawy, Abhijeet Parida, Franz Pfister,
 _arXiv:2103.10868_, 2021 
 
 - **[T4]**  Efficient Ensemble Model Generation for Uncertainty Estimation with Bayesian Approximation in Segmentation         
-Hong Joo Lee*, **Seong Tae Kim***(co-first), Hakmin Lee, Nassir Navab, Yong Man Ro            
+Hong Joo Lee, **Seong Tae Kim**(co-first), Hakmin Lee, Nassir Navab, Yong Man Ro            
 _arXiv:2004.02200_, 2020 
 
 - **[T3]**  Confident Coreset for Active Learning in Medical Image Analysis         
-Seong Tae Kim, Farrukh Mushtaq, Nassir Navab           
+**Seong Tae Kim**, Farrukh Mushtaq, Nassir Navab           
 _arXiv:2004.02200_, 2020 
 
 - **[T2]**  Differential generative adversarial networks: Synthesizing non-linear facial variations with limited number of training data         
