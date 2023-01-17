@@ -3,7 +3,7 @@ layout: page
 title: Research
 subtitle: Publications
 ---
-*Corresponding Author
+*Corresponding Author                       
 Bold: Member of Augmented Intelligence Lab. 
 
 ### 2023
