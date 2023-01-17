@@ -5,13 +5,28 @@ subtitle: Publications
 ---
 *Corresponding Author
 
-### 2022
-- **[C36]** Exploiting Diversity of Unlabeled Data for Label-Efficient Semi-Supervised Active Learning               
+### 2023
+- **[J14]** Towards Label-Efficient Neural Network Training: Diversity-based Sampling in Semi-Supervised Active Learning                             
 Felix Buchert, Nassir Navab, **Seong Tae Kim***              
-_International Conference on Pattern Recognition (**ICPR**)_, 2022 (Montreal)
-- **[C35]** Analyzing the Effects of Handling Data Imbalance on Learned Features by Looking Into the Models               
+_IEEE Access_, 2023 
+
+### 2022
+- **[T8]**  Improved Abdominal Multi-Organ Segmentation via 3D Boundary-Constrained Deep Neural Networks                                
+**Samra Irshad**, Douglas P. S. Gomes, **Seong Tae Kim***                              
+_arXiv:2210.04285_, 2022 
+
+- **[C36]** Analyzing the Effects of Handling Data Imbalance on Learned Features by Looking Into the Models               
 Ashkan Khakzar, Yawei Li, Yang Zhang, Mirac Sanisoglu, **Seong Tae Kim**, Mina Rezaei, Bernd Bischl, Nassir Navab              
 _ICML Interpretable Machine Learning in Healthcare Workshop (**ICML Workshop**)_, 2022 (Baltimore)
+
+- **[T7]**  Longitudinal Self-Supervision for COVID-19 Pathology Quantification                                
+Tobias Czempiel, Coco Rogers, Matthias Keicher, Magdalini Paschali, Rickmer Braren, Egon Burian, Marcus Makowski, Nassir Navab, Thomas Wendler, **Seong Tae Kim***                             
+_arXiv:2203.10804_, 2022 
+
+- **[C35]** Exploiting Diversity of Unlabeled Data for Label-Efficient Semi-Supervised Active Learning               
+Felix Buchert, Nassir Navab, **Seong Tae Kim***              
+_International Conference on Pattern Recognition (**ICPR**)_, 2022 (Montreal)
+
 - **[J13]**  Robust Perturbation for Visual Explanation: Cross-checking Mask Optimization to Avoid Class Distortion                      
 Junho Kim, Seongyeop Kim, **Seong Tae Kim**, Yong Man Ro                 
 _IEEE Transactions on Image Processing (**TIP**)_, 2022
@@ -40,6 +55,14 @@ _International Conference on Medical Image Computing and Computer-Assisted Inter
 - **[C30]** OperA: Attention-Regularized Transformers for Surgical Phase Recognition           
 Tobias Czempiel, Magdalini Paschali, Daniel Ostler, **Seong Tae Kim**, Benjamin Busam, Nassir Navab                             
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2021 (Virtual)
+
+- **[T6]**  Interactive Segmentation for COVID-19 Infection Quantification on Longitudinal CT scans             
+Michelle Xiao-Lin Foo, **Seong Tae Kim***, Magdalini Paschali, Leili Goli, Egon Burian, Marcus Makowski, Rickmer Braren, Nassir Navab, Thomas Wendler               
+_arXiv:2110.00948_, 2021 
+
+- **[T5]**  GLOWin: A Flow-based Invertible Generative Framework for Learning Disentangled Feature Representations in Medical Images             
+Aadhithya Sankar, Matthias Keicher, Rami Eisawy, Abhijeet Parida, Franz Pfister, **Seong Tae Kim***, Nassir Navab               
+_arXiv:2103.10868_, 2021 
 
 - **[C29]** Neural Response Interpretation through the Lens of Critical Pathways           
 Ashkan Khakzar, Soroosh Baselizadeh, Saurabh Khanduja, Christian Rupprecht, **Seong Tae Kim***, Nassir Navab                            
@@ -88,6 +111,14 @@ _British Machine Vision Conference (**BMVC**) _, 2020 (Virtual)
 - **[C23]** Towards high-performance object detection: Task-specific design considering classification and localization separation           
 Jung Uk Kim, **Seong Tae Kim**, Eun Sung Kim, Sang-Keun Moon, Yong Man Ro                           
 _International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**)_, 2020 (Virtual Barcelona)
+
+- **[T4]**  Efficient Ensemble Model Generation for Uncertainty Estimation with Bayesian Approximation in Segmentation         
+Hong Joo Lee, **Seong Tae Kim**(co-first), Hakmin Lee, Nassir Navab, Yong Man Ro            
+_arXiv:2004.02200_, 2020 
+
+- **[T3]**  Confident Coreset for Active Learning in Medical Image Analysis         
+**Seong Tae Kim**, Farrukh Mushtaq, Nassir Navab           
+_arXiv:2004.02200_, 2020 
 
 - **[J7]**  Attended relation feature representation of facial dynamics for facial authentication                                
 **Seong Tae Kim**, Yong Man Ro                                                 
@@ -140,6 +171,14 @@ _International Conference on Multimedia Modeling (**MMM**)_, 2018 (Bangkok)
 - **[C13]**  Teacher and student joint learning for compact facial landmark detection network          
 Hongju Lee, Wissam Baddar, Hak Gu Kim, **Seong Tae Kim**, Yong Man Ro                           
 _International Conference on Multimedia Modeling (**MMM**)_, 2018 (Bangkok)
+
+- **[T2]**  Differential generative adversarial networks: Synthesizing non-linear facial variations with limited number of training data         
+Geonmo Gu, **Seong Tae Kim**, Kihyun Kim, Wissam J Baddar, Yong Man Ro           
+_arXiv:1711.10267_, 2017 
+
+- **[T1]**  EvaluationNet: Can human skill be evaluated by deep networks?         
+**Seong Tae Kim**, Yong Man Ro           
+_arXiv:1705.11077_, 2017 
 
 - **[J4]**  Latent feature representation with depth directional long-term recurrent learning for breast masses in digital breast tomosynthesis             
 Dae Hoe Kim, **Seong Tae Kim**, Jung Min Chang (Seoul National University Hospital), Yong Man Ro                                 
@@ -221,31 +260,8 @@ _IEEE-EMBS International Conference on Biomedical and Health Informatics (**BHI*
 - [P2] Method and system for automatic biometric authentication based on facial spatio-temporal features (KR 10-1802061)                                  
 - [P1] Lesion classification apparatus, and method of modifying lesion classification data (US 9,547,896)                                
 
-### Preprint
-- **[T7]**  Improved Abdominal Multi-Organ Segmentation via 3D Boundary-Constrained Deep Neural Networks                                
-**Samra Irshad**, Douglas P. S. Gomes, **Seong Tae Kim***                              
-_arXiv:2210.04285_, 2022 
 
-- **[T6]**  Interactive Segmentation for COVID-19 Infection Quantification on Longitudinal CT scans             
-Michelle Xiao-Lin Foo, **Seong Tae Kim***, Magdalini Paschali, Leili Goli, Egon Burian, Marcus Makowski, Rickmer Braren, Nassir Navab, Thomas Wendler               
-_arXiv:2110.00948_, 2021 
 
-- **[T5]**  GLOWin: A Flow-based Invertible Generative Framework for Learning Disentangled Feature Representations in Medical Images             
-Aadhithya Sankar, Matthias Keicher, Rami Eisawy, Abhijeet Parida, Franz Pfister, **Seong Tae Kim***, Nassir Navab               
-_arXiv:2103.10868_, 2021 
 
-- **[T4]**  Efficient Ensemble Model Generation for Uncertainty Estimation with Bayesian Approximation in Segmentation         
-Hong Joo Lee, **Seong Tae Kim**(co-first), Hakmin Lee, Nassir Navab, Yong Man Ro            
-_arXiv:2004.02200_, 2020 
 
-- **[T3]**  Confident Coreset for Active Learning in Medical Image Analysis         
-**Seong Tae Kim**, Farrukh Mushtaq, Nassir Navab           
-_arXiv:2004.02200_, 2020 
 
-- **[T2]**  Differential generative adversarial networks: Synthesizing non-linear facial variations with limited number of training data         
-Geonmo Gu, **Seong Tae Kim**, Kihyun Kim, Wissam J Baddar, Yong Man Ro           
-_arXiv:1711.10267_, 2017 
-
-- **[T1]**  EvaluationNet: Can human skill be evaluated by deep networks?         
-**Seong Tae Kim**, Yong Man Ro           
-_arXiv:1705.11077_, 2017 
