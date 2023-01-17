@@ -3,8 +3,8 @@ layout: page
 title: Research
 subtitle: Publications
 ---
-*Corresponding Author                       
-Bold: Member of Augmented Intelligence Lab. 
+*: Corresponding Author                       
+**Bold**: Member of Augmented Intelligence Lab. 
 
 ### 2023
 - **[J14]** Towards Label-Efficient Neural Network Training: Diversity-based Sampling in Semi-Supervised Active Learning                             
