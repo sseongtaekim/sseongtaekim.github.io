@@ -9,14 +9,14 @@ subtitle: AI Lab Family
 * [Yong Hyun Ahn](students/YongHyunAhn.md)
 * [Minkuk Kim](students/MinKukKim.md)
 * [Soyeon One](students/SoyeonOne.md)
-* [Hyeonbae Kim]()
-* [Yebin Ji]()
+* [Hyeonbae Kim]
+* [Yebin Ji]
 
 #### PhD/MS-PhD students
 * [Ameer Hamza](students/AmeerHamza.md)
 * [Abdullah](students/Abdullah.md)
 * [Samra Irshad](students/Sam.md)
-* [Abdul Wasay Sardar]()
+* [Abdul Wasay Sardar]
 
 #### BS students / Interns
-* [Oh Sung Choo]()
+* [Oh Sung Choo]
