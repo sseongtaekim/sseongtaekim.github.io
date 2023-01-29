@@ -37,7 +37,7 @@ st.kim@khu.ac.kr
 #### Professional Services
 * Organizing Committee - MICCAI 2025
 * Associate Editor - IEEE Trans. Circuits and Systems for Video Technology (2022.1~) 
-* Area Chair - _MICCAI 2022_
+* Area Chair - _MICCAI 2022_, _MICCAI 2023_ 
 * Reviewer / Program Committee - _NeurIPS (2022)_, _CVPR (2020-2022)_, _ICCV (2021)_, _ECCV (2020)_, _ICLR (2022)_, _AAAI (2021-2023)_, _MICCAI (2019-2021)_, _IROS (2020)_, _Nature Communications_, _IEEE Trans. Medical Imaging_, _IEEE Trans. Cybernetics_, _IEEE Trans. Image Processing_, _IEEE Trans. Multimedia_, Pattern Recognition, etc. 
 
 #### Awards and Honors
