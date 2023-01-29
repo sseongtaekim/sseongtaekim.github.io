@@ -10,14 +10,14 @@ subtitle: AI Lab Family
 #### Prof. Seong Tae Kim
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/SeongTae_Kim.png" width="200" height="265" align="left" hspace="20" />
-Assistant Professor          
-School of Computing        
-College of Software           
-Kyung Hee University        
+Assistant Professor                  
+School of Computing                
+College of Software                   
+Kyung Hee University                
 
 **Contact**  
 st.kim@khu.ac.kr  
-+82-31-201-3761  
++82-31-201-3761        
 #508, Electronic Information College Building, 1732 Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi-do, 17104, South Korea  
  
 
