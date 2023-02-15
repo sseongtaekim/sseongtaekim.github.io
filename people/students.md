@@ -9,7 +9,7 @@ subtitle: AI Lab Family
 * [Yong Hyun Ahn](students/YongHyunAhn.md)
 * [Minkuk Kim](students/MinKukKim.md)
 * [Soyeon One](students/SoyeonOne.md)
-* Hyeonbae Kim
+* [Hyeonbae Kim](students/HyeonbaeKim.md)
 * Yebin Ji
 
 #### PhD/MS-PhD students
@@ -18,5 +18,5 @@ subtitle: AI Lab Family
 * [Samra Irshad](students/Sam.md)
 * Abdul Wasay Sardar
 
-#### BS students / Interns
-* Oh Sung Choo
+#### Undergraduate Interns
+* [Oh Sung Choo](students/OhsungChoo.md)
