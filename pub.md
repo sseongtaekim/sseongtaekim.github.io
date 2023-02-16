@@ -7,6 +7,9 @@ subtitle: Publications
 **Bold**: Member of Augmented Intelligence Lab. 
 
 ### 2023
+- **[C37]** Towards Robust Audio-based Vehicle Detection via Importance-aware Audio-Visual Learning                 
+Jung Uk Kim, **Seong Tae Kim**          
+_International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**)_, 2023 (Rhodes)
 - **[J14]** Towards Label-Efficient Neural Network Training: Diversity-based Sampling in Semi-Supervised Active Learning                             
 Felix Buchert, Nassir Navab, **Seong Tae Kim***              
 _IEEE Access_, 2023 
