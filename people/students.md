@@ -20,3 +20,4 @@ subtitle: AI Lab Family
 
 #### Undergraduate Interns
 * [Oh Sung Choo](students/OhsungChoo.md)
+* Woo Hyun Kim
