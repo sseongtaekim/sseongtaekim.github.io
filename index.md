@@ -14,11 +14,10 @@ Key Technologies: Explainability, Reliability, Responsiblity, Data-Efficiency, H
 - Run with People
 
 
+### Announcements: Ph.D. Position in Computer Vision (Scene Graph)/Responsible AI/Multimodal AI
 
-### Announcements
+The full-time Ph.D. position is available at Augmented Intelligence (AI) Lab. in the Department of AI/CSE, Kyung Hee University. If you are interested in joining AI Lab, please feel free to contact Prof. Seong Tae Kim (st.kim@khu.ac.kr).
 
-We are looking for highly-motivated students (MS/Ph.D.) who are interested in making contributions to Augmented Intelligence. In particular, we are on the topics of deep learning, explainable deep learning, responsible AI, multimodal AI (vision-language), computer vision for mission-critical applications (e.g., healthcare: diagnosis/surgery). If you are interested in joining AI Lab, please feel free to contact Prof. Seong Tae Kim (st.kim@khu.ac.kr).
-
-경희대학교 증강지능 연구실 (AI Lab)에서 함께 연구를 진행할 학생을 모집합니다. 딥러닝, 설명가능한 딥러닝, 책임있는 AI, 시각-언어 멀티모달 AI, 컴퓨터 비전 및 헬스케어 (진단, 수술) 분야 연구에 관심있는 학생은 김성태 교수 (st.kim@khu.ac.kr)에게 문의 바랍니다.
+경희대학교 증강지능 연구실 (AI Lab)에서 함께 연구를 진행할 박사과정 학생을 모집합니다. 컴퓨터비전, 책임있는 AI, 멀티모달 AI 분야 연구에 관심있는 학생은 김성태 교수 (st.kim@khu.ac.kr)에게 문의 바랍니다.
 
 #Explainable AI #Reliable AI #Responsible AI #Multimodal AI
