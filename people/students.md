@@ -16,7 +16,6 @@ subtitle: AI Lab Family
 * [Ameer Hamza](students/AmeerHamza.md)
 * [Abdullah](students/Abdullah.md)
 * [Samra Irshad](students/Sam.md)
-* Abdul Wasay Sardar
 
 #### Undergraduate Interns
 * [Oh Sung Choo](students/OhsungChoo.md)
