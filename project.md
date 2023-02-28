@@ -11,7 +11,7 @@ subtitle: Projects
 #### Research Projects
 - Reliable DL/Uncertainty Estimation (Supported by National Research Foundation (2021-2024))         
 - Explainable Logical Reasoning (Supported by IITP (2022-2026))        
-- Memory-based Long Video Understanding (Supported by ETRI (2023-2025))        
+- Dense Video Captioning (Supported by ETRI (2023-2025))        
 
 
 #### Human Resource Development 
