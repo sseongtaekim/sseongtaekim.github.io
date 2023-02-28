@@ -7,6 +7,9 @@ subtitle: Publications
 **Bold**: Member of Augmented Intelligence Lab. 
 
 ### 2023
+- **[C38]** LINe: Out-of-Distribution Detection by Leveraging Important Neurons                               
+**Yong Hyun Ahn**, Gyeong-Moon Park*, **Seong Tae Kim***          
+_Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 (Vancouver)            
 - **[C37]** Towards Robust Audio-based Vehicle Detection via Importance-aware Audio-Visual Learning                 
 Jung Uk Kim, **Seong Tae Kim**          
 _International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**)_, 2023 (Rhodes)
