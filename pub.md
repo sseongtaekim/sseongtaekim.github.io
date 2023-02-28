@@ -8,7 +8,7 @@ subtitle: Publications
 
 ### 2023
 - **[C38]** LINe: Out-of-Distribution Detection by Leveraging Important Neurons                                      
-**Yong Hyun Ahn**, Gyeong-Moon Park*, ***Seong Tae Kim***               
+**Yong Hyun Ahn**, Gyeong-Moon Park*, **Seong Tae Kim***             
 _Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 (Vancouver)            
 - **[C37]** Towards Robust Audio-based Vehicle Detection via Importance-aware Audio-Visual Learning                 
 Jung Uk Kim, **Seong Tae Kim**          
