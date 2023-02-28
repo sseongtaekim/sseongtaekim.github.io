@@ -22,4 +22,9 @@ yhahn@khu.ac.kr
 * Explainable AI
 * Out-of-Distribution Detection
 * Uncertainty Estimation
+
+- **[C1]** LINe: Out-of-Distribution Detection by Leveraging Important Neurons                                      
+**Yong Hyun Ahn**, Gyeong-Moon Park\*, **Seong Tae Kim***            
+_Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 (Vancouver)   
+
 <hr>
