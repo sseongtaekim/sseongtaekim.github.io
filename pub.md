@@ -5,7 +5,7 @@ subtitle: Publications
 ---
 *: Corresponding Author                       
 **Bold**: Member of Augmented Intelligence Lab. 
-### 2CVPR/1NeurIPS/1ECCV/6MICCAI
+Summary: 2CVPR/1NeurIPS/1ECCV/6MICCAI
 
 ### 2023
 - **[C38]** LINe: Out-of-Distribution Detection by Leveraging Important Neurons                                      
