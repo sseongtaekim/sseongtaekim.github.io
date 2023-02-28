@@ -16,7 +16,7 @@ Key Technologies: Explainability, Reliability, Responsiblity, Data-Efficiency, H
 ### Recent News
 <hr>
 - 23.2 One paper got accepted to **CVPR 2023**! Congratulations Yong Hyun!
-- 23.2 One paper got accepted to **ICASSP 2023**!
+- 23.2 One paper got accepted to **ICASSP 2023**! Congrats!
 - 23.2 Hyunbae and Yebin joined the lab as MS student! Welcome!
 - 23.2 Prof. Seong Tae Kim will serving as an Area Chair of **MICCAI 2023**!
 - 23.1 Oh Sung joined the lab as BS intern! Welcome!
