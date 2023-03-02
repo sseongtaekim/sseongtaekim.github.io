@@ -199,7 +199,8 @@ _IEEE-EMBS International Conference on Biomedical and Health Informatics (**BHI*
 
 ### Patents (Registered)
 - [P14] Interactive computer-aided diagnosis method for lesion diagnosis and the system thereof (KR 10-2281988)                                
-- [P13] Interpreting method for diagnostic decision of deep network using breast imaging-reporting and data system and the system thereof (KR 10-2223255)                - [P12] Method for interpreting visual evidence according to breast mass characteristics and the system thereof (KR 10-2216279)                                
+- [P13] Interpreting method for diagnostic decision of deep network using breast imaging-reporting and data system and the system thereof (KR 10-2223255)                                                        
+- [P12] Method for interpreting visual evidence according to breast mass characteristics and the system thereof (KR 10-2216279)                                
 - [P11] Automated Facial Expression Recognizing Systems on N frames, Methods, and Computer-Readable Mediums thereof (KR 10-2152120)                                
 - [P10] Machine learning system using joint learning and the method thereof (KR 10-2100973)   
 - [P9] Medical image apparatus and control method for the same (KR 10-2096410)                             
