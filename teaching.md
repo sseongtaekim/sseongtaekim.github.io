@@ -17,6 +17,7 @@ title: Teaching
 - CSE203 Computer Architecture (Undergraduate)
 - AI7027 Explainable AI (Graduate)
 
+
 ### 2021
 #### Fall
 - CSE203 Computer Architecture (Undergraduate)
@@ -25,3 +26,20 @@ title: Teaching
 #### Spring
 - CSE203 Computer Architecture (Undergraduate)
 - CSE7102 Optimization Theory (Graduate)
+
+### 2020 (TU Munich)
+#### Winter
+- Deep Learning for Medical Applications (Graudate)
+- Machine Learning in Medical Imaging (Graudate)
+- Computer Aided Medical Procedures I (Graudate)
+
+#### Summer
+- Deep Learning for Medical Applications (Graudate)
+- Machine Learning in Medical Imaging (Graudate)
+- Computer Aided Medical Procedures II (Graudate)
+
+### 2019 (TU Munich)
+#### Winter
+- Computer Aided Medical Procedures I (Graudate)
+#### Summer
+- Computer Aided Medical Procedures II (Graudate)
