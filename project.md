@@ -10,7 +10,7 @@ subtitle: Projects
 
 #### Research Projects
 - Reliable DL/Uncertainty Estimation (Supported by National Research Foundation (2021-2024))         
-- Explainable Logical Reasoning (Supported by IITP (2022-2026))        
+- Explainable Logical Reasoning (Supported by IITP (2022-2026)) [사람중심 인공지능 핵심원천기술개발]        
 - Dense Video Captioning (Supported by ETRI (2023-2025))        
 
 
