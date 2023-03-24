@@ -9,7 +9,7 @@ subtitle: Publications
 ### 2023
 - **[C38]** LINe: Out-of-Distribution Detection by Leveraging Important Neurons                                      
 **Yong Hyun Ahn**, Gyeong-Moon Park\*, **Seong Tae Kim***            
-_Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 (Vancouver)            
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 (Vancouver)            
 - **[C37]** Towards Robust Audio-based Vehicle Detection via Importance-aware Audio-Visual Learning                 
 Jung Uk Kim, **Seong Tae Kim**          
 _International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**)_, 2023 (Rhodes)
@@ -61,7 +61,7 @@ Aadhithya Sankar, Matthias Keicher, Rami Eisawy, Abhijeet Parida, Franz Pfister,
 _arXiv:2103.10868_, 2021 
 - **[C29]** Neural Response Interpretation through the Lens of Critical Pathways           
 Ashkan Khakzar, Soroosh Baselizadeh, Saurabh Khanduja, Christian Rupprecht, **Seong Tae Kim***, Nassir Navab                            
-_Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2021 (Virtual)
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2021 (Virtual)
 - **[C28]** Butterfly-Net: Spatial-Temporal Architecture for Medical Image Segmentation           
 Tetiana Klymenko, **Seong Tae Kim**, Kirsten Lauber, Christopher Kurz, Guillaume Landry, Nassir Navab, Shadi Albarqouni                           
 _IEEE International Symposium on Biomedical Imaging (**ISBI**)_, 2021 (Virtual)
