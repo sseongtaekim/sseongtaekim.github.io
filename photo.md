@@ -6,6 +6,14 @@ subtitle: Life in AI Lab
 
 <hr>
 
+## 2023
+
+#### ETRI Meeting (Daejeon), March 2023
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/2303_ETRI.jpg" width="700" align="center"/>
+
+#### Seminar & Dinner, February 2023
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/2302_Dinner.jpg" width="700" align="center"/>
+
 ## 2022
 
 #### KHU AI Conference, December 2022
