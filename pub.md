@@ -10,8 +10,7 @@ subtitle: Publications
 - **[C38]** LINe: Out-of-Distribution Detection by Leveraging Important Neurons                                      
 **Yong Hyun Ahn**, Gyeong-Moon Park\*, **Seong Tae Kim***            
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 (Vancouver)  
-- **[T9]**  Analyzing Effects of Mixed Sample Data Augmentation on Model Interpretability        
-                                
+- **[T9]**  Analyzing Effects of Mixed Sample Data Augmentation on Model Interpretability                
 **Soyoun Won**, Sung-Ho Bae, **Seong Tae Kim**                              
 _arXiv:2303.14608_, 2023    
 - **[C37]** Towards Robust Audio-based Vehicle Detection via Importance-aware Audio-Visual Learning                 
