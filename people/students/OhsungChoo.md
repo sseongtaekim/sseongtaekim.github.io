@@ -16,7 +16,7 @@ Department of Electrical Engineering, Kyung Hee University
 
 **Contact**  
 obama0404@khu.ac.kr                                                             
-#326, Electronic Information College Building, 1732 Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi-do, 17104, South Korea  
+#351, Electronic Information College Building, 1732 Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi-do, 17104, South Korea  
 
 #### Research Interest
 * Multimodal Deep Learning
