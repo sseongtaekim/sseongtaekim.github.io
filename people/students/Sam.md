@@ -23,4 +23,9 @@ samra@khu.ac.kr
 * Adversarial Attack
 * Uncertainty
 
+#### Publication
+- **[J1]** Improved Abdominal Multi-Organ Segmentation via 3D Boundary-Constrained Deep Neural Networks                                                                  
+**Samra Irshad**, Douglas P. S. Gomes, **Seong Tae Kim***                     
+_IEEE Access_, 2023   
+
 <hr>
