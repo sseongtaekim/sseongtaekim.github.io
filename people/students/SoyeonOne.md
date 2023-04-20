@@ -15,12 +15,17 @@ Department of Computer Science and Engineering, Kyung Hee University
             
 
 **Contact**  
-yuans3@khu.ac.kr                       
-#326, Electronic Information College Building, 1732 Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi-do, 17104, South Korea  
+sy.won@khu.ac.kr                                         
+#351, Electronic Information College Building, 1732 Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi-do, 17104, South Korea  
 
 #### Research Interest
 * Explainable AI
 * Feature Attribution
 * Evaluation of Feature Attribution
+
+#### Publication
+- **[T1]** Analyzing Effects of Mixed Sample Data Augmentation on Model Interpretability
+**Soyoun Won**, Sung-Ho Bae, **Seong Tae Kim**           
+_arXiv:2303.14608_, 2023   
 
 <hr>
