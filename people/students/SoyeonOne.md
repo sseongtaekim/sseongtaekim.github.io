@@ -24,7 +24,7 @@ sy.won@khu.ac.kr
 * Evaluation of Feature Attribution
 
 #### Publication
-- **[T1]** Analyzing Effects of Mixed Sample Data Augmentation on Model Interpretability
+- **[T1]** Analyzing Effects of Mixed Sample Data Augmentation on Model Interpretability                            
 **Soyoun Won**, Sung-Ho Bae, **Seong Tae Kim**           
 _arXiv:2303.14608_, 2023   
 
