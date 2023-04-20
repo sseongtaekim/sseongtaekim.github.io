@@ -21,7 +21,7 @@ samra@khu.ac.kr
 #### Research Interest
 * Robustness
 * Adversarial Attack
-* Uncertainty
+
 
 #### Publication
 - **[J1]** Improved Abdominal Multi-Organ Segmentation via 3D Boundary-Constrained Deep Neural Networks                                                                  
