@@ -32,8 +32,10 @@ st.kim@khu.ac.kr
 
 * Assistant Professor, Department of Computer Science and Engineering, Kyung Hee University (2021.3~)
 * Senior Research Scientist, Chair for Computer Aided Medical Procedures, Department of Informatics, Technical University of Munich (2019.3~2021.2)
+  - Advisor: Prof. Nassir Navab(https://scholar.google.com/citations?user=kzoVUPYAAAAJ) 
 * Visiting Researcher, Department of Electrical and Computer Engineering, University of Toronto (2015)
-
+  - Advisor: Prof. Konstantinos N Plataniotis(https://scholar.google.com/citations?user=W-4N_2gAAAAJ)
+  
 #### Professional Services
 * Organizing Committee - MICCAI 2025
 * Associate Editor - IEEE Trans. Circuits and Systems for Video Technology (2022.1~) 
