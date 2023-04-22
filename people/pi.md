@@ -25,7 +25,7 @@ st.kim@khu.ac.kr
 
 #### Education 
 * PhD, School of Electrical Engineering, KAIST (2019) 
-  - Advisor: [Prof. Yong Man Ro](https://scholar.google.com/citations?user=kzoVUPYAAAAJ](https://scholar.google.com/citations?user=IPzfF7cAAAAJ) 
+  - Advisor: [Prof. Yong Man Ro](https://scholar.google.com/citations?user=IPzfF7cAAAAJ) 
 * MS, Department of Electrical Engineering, KAIST (2014)  
 * BS, School of Electrical Engineering, Korea University (2012)  
   
