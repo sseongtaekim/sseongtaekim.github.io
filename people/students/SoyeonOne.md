@@ -6,7 +6,7 @@ subtitle: AI Lab Family
 
 <hr>
 
-#### So Yeon One
+#### Soyoun Won
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/SoyeonOne.jpg" width="200" height="265" align="left" hspace="20" />
 Master Student (2022.9~)        
