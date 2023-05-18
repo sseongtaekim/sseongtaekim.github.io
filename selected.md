@@ -1,46 +1,49 @@
 ---
 layout: page
 title: Research
-subtitle: Selected Publications
+subtitle: Selected Publications (Top-conference/JCR 10% Journal)
 ---
 *: Corresponding Author                        
 
-- **[SP23]** LINe: Out-of-Distribution Detection by Leveraging Important Neurons                                      
+- **[SP24]** LINe: Out-of-Distribution Detection by Leveraging Important Neurons                                      
 **Yong Hyun Ahn**, Gyeong-Moon Park\*, **Seong Tae Kim***            
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 (Vancouver)  
-- **[SP22]** Towards Robust Audio-based Vehicle Detection via Importance-aware Audio-Visual Learning                 
+- **[SP23]** Towards Robust Audio-based Vehicle Detection via Importance-aware Audio-Visual Learning                 
 Jung Uk Kim, **Seong Tae Kim**          
 _International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**)_, 2023 (Rhodes)
-- **[SP21]** Analyzing the Effects of Handling Data Imbalance on Learned Features by Looking Into the Models               
+- **[SP22]** Analyzing the Effects of Handling Data Imbalance on Learned Features by Looking Into the Models               
 Ashkan Khakzar, Yawei Li, Yang Zhang, Mirac Sanisoglu, **Seong Tae Kim**, Mina Rezaei, Bernd Bischl, Nassir Navab              
 _ICML Interpretable Machine Learning in Healthcare Workshop (**ICML Workshop**)_, 2022 (Baltimore)                          
-- **[SP20]** Exploiting Diversity of Unlabeled Data for Label-Efficient Semi-Supervised Active Learning               
+- **[SP21]** Exploiting Diversity of Unlabeled Data for Label-Efficient Semi-Supervised Active Learning               
 Felix Buchert, Nassir Navab, **Seong Tae Kim***              
 _International Conference on Pattern Recognition (**ICPR**)_, 2022 (Montreal)
-- **[SP19]**  Robust Perturbation for Visual Explanation: Cross-checking Mask Optimization to Avoid Class Distortion                      
+- **[SP20]**  Robust Perturbation for Visual Explanation: Cross-checking Mask Optimization to Avoid Class Distortion                      
 Junho Kim, Seongyeop Kim, **Seong Tae Kim**, Yong Man Ro                 
 _IEEE Transactions on Image Processing (**TIP**)_, 2022
-- **[SP18]** Fine-Grained Neural Network Explanation by Identifying Input Features with Predictive Information            
+- **[SP19]** Fine-Grained Neural Network Explanation by Identifying Input Features with Predictive Information            
 Yang Zhang, Ashkan Khakzar, Yawei Li, Azade Farshad, **Seong Tae Kim***, Nassir Navab              
 _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2021 (Virtual)
-- **[SP17]** Longitudinal Quantitative Assessment of COVID-19 Infection Progression from Chest CTs            
+- **[SP18]** Longitudinal Quantitative Assessment of COVID-19 Infection Progression from Chest CTs            
 **Seong Tae Kim***, Leili Goli (co-first), Magdalini Paschali, Ashkan Khakzar, Matthias Keicher, Tobias Czempiel, Egon Burian, Rickmer Braren, Nassir Navab, Thomas Wendler                             
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2021 (Virtual)
-- **[SP16]** Towards Semantic Interpretation of Thoracic Disease and COVID-19 Diagnosis Models            
+- **[SP17]** Towards Semantic Interpretation of Thoracic Disease and COVID-19 Diagnosis Models            
 Ashkan Khakzar, Sabrina Musatian, Jonas Buchberger, Icxel Valeriano Quiroz, Nikolaus Pinger, Soroosh Baselizadeh, **Seong Tae Kim***, Nassir Navab                             
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2021 (Virtual)
-- **[SP15]** Explaining COVID-19 and Thoracic Pathology Model Predictions by Identifying Informative Input Features            
+- **[SP16]** Explaining COVID-19 and Thoracic Pathology Model Predictions by Identifying Informative Input Features            
 Ashkan Khakzar, Yang Zhang, Wejdene Mansour, Yuezhi Cai, Yawei Li, Yucheng Zhang, **Seong Tae Kim***, Nassir Navab                             
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2021 (Virtual)
-- **[SP14]** OperA: Attention-Regularized Transformers for Surgical Phase Recognition           
+- **[SP15]** OperA: Attention-Regularized Transformers for Surgical Phase Recognition           
 Tobias Czempiel, Magdalini Paschali, Daniel Ostler, **Seong Tae Kim**, Benjamin Busam, Nassir Navab                             
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2021 (Virtual)
-- **[SP13]** Neural Response Interpretation through the Lens of Critical Pathways           
+- **[SP14]** Neural Response Interpretation through the Lens of Critical Pathways           
 Ashkan Khakzar, Soroosh Baselizadeh, Saurabh Khanduja, Christian Rupprecht, **Seong Tae Kim***, Nassir Navab                            
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2021 (Virtual)
-- **[SP12]** Self-supervised out-of-distribution detection in brain CT scans           
+- **[SP13]** Self-supervised out-of-distribution detection in brain CT scans           
 Abinav Ravi Venkatakrishnan, **Seong Tae Kim***, Rami Eisawy, Franz Pfister, Nassir Navab                           
 _Medical Imaging Meets NeurIPS (**NeurIPS Workshop**)_, 2020 (Virtual)
+- **[SP12]**  Force-Ultrasound Fusion: Bringing Spine Robotic-US to the Next "Level"                      
+Maria Tirindelli, Maria Victorova, Javier Esteban, **Seong Tae Kim**, David Navarro-Alarcon, Yong Ping Zheng, Nassir Navab                 
+_IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**)_, 2020 (Virtual)
 - **[SP11]** TeCNO: Surgical Phase Recognition with Multi-Stage Temporal Convolutional Networks           
 Tobias Czempiel, Magdalini Paschali, Matthias Keicher, Walter Simson, Hubertus Feussner, **Seong Tae Kim**, Nassir Navab                           
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2020 (Virtual)
@@ -74,9 +77,3 @@ _SPIE Medical Imaging (**SPIE MI**)_, 2018 (Houston)
 - **[SP1]**  Latent feature representation with 3-D Multi-view convolutional neural network for bilateral analysis in digital breast tomosynthesis       
 Dae Hoe Kim, **Seong Tae Kim**, Yong Man Ro                                 
 _IEEE International Conference on Acoustics, speech and signal processing (**ICASSP**)_, 2016 (Shanghai)
-
-
-
-
-
-
