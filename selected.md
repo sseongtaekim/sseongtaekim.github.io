@@ -57,7 +57,7 @@ _IEEE Transactions on Information Forensics and Security (**TIFS**)_, 2019
 Hyebin Lee, **Seong Tae Kim**, Yong Man Ro                           
 _Visual Recognition for Medical Image at International Conference on Computer Vision  (**ICCVW**)_, 2019 (Seoul)
 - **[SP6]** Realistic breast mass generation through BIRADS category          
-Hakmin Lee, Seong Tae Kim, Jae-Hyeok Lee, Yong Man Ro                           
+Hakmin Lee, **Seong Tae Kim**, Jae-Hyeok Lee, Yong Man Ro                           
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2019 (Shenzhen)
 - **[SP5]** Generation of multimodal generation using visual word constraint model for explainable computer-aided diagnosis         
 Hyebin Lee, **Seong Tae Kim**, Yong Man Ro                           
