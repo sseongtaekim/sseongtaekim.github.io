@@ -25,6 +25,7 @@ navbar-links:
     - PI: "people/pi"
     - Students: "people/students"
   Research: 
+    - Selected Publications: "selected"
     - Projects: "project"
     - Publications: "pub"
   Teaching: "teaching"
