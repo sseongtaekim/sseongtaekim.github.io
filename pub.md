@@ -9,13 +9,10 @@ subtitle: Publications
 ### 2023
 - **[C38]** LINe: Out-of-Distribution Detection by Leveraging Important Neurons                                      
 **Yong Hyun Ahn**, Gyeong-Moon Park\*, **Seong Tae Kim***            
-_IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 (Vancouver)  
-- **[T8]**  Analyzing Effects of Mixed Sample Data Augmentation on Model Interpretability                
-**Soyoun Won**, Sung-Ho Bae, **Seong Tae Kim***                              
-_arXiv:2303.14608_, 2023
-- **[J15]**  Improved Abdominal Multi-Organ Segmentation via 3D Boundary-Constrained Deep Neural Networks                                
-**Samra Irshad**, Douglas P. S. Gomes, **Seong Tae Kim***                              
-_IEEE Access_, 2023  
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 (Vancouver)    
+- **[J15]** Towards Label-Efficient Neural Network Training: Diversity-based Sampling in Semi-Supervised Active Learning                             
+Felix Buchert, Nassir Navab, **Seong Tae Kim***              
+_IEEE Access_, 2023 
 - **[C37]** Towards Robust Audio-based Vehicle Detection via Importance-aware Audio-Visual Learning                 
 Jung Uk Kim, **Seong Tae Kim**          
 _International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**)_, 2023 (Rhodes)
