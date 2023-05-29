@@ -10,8 +10,8 @@ subtitle: Publications
 - **[C38]** LINe: Out-of-Distribution Detection by Leveraging Important Neurons                                      
 **Yong Hyun Ahn**, Gyeong-Moon Park\*, **Seong Tae Kim***            
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 (Vancouver)    
-- **[J15]** Towards Label-Efficient Neural Network Training: Diversity-based Sampling in Semi-Supervised Active Learning                             
-Felix Buchert, Nassir Navab, **Seong Tae Kim***              
+- **[J15]** Improved abdominal multi-organ segmentation via 3D boundary-constrained deep neural networks                                               
+Samra Irshad, Douglas PS Gomes, **Seong Tae Kim***              
 _IEEE Access_, 2023 
 - **[C37]** Towards Robust Audio-based Vehicle Detection via Importance-aware Audio-Visual Learning                 
 Jung Uk Kim, **Seong Tae Kim**          
