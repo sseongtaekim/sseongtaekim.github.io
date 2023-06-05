@@ -8,6 +8,9 @@ subtitle: Life in AI Lab
 
 ## 2023
 
+#### Gathering, May 2023
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/ailab_2305.jpg" width="700" align="center"/>
+
 #### ETRI Meeting (Daejeon), March 2023
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/2303_ETRI.jpg" width="700" align="center"/>
 
