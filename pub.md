@@ -14,7 +14,7 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 202
 Ahyung Shin, **Seong Tae Kim***, Gyeong-Moon Park\*              
 _IEEE Access_, 2023
 - **[J16]** A Hybrid Multimodal Emotion Recognition Framework for UX Evaluation Using Generalized Mixture Functions                                               
-Muhammad Asif Razzaq, Jamil Hussain, Jaehun Bang, Cam-Hao Hua, Fahad Ahmed Satti, Ubaid Ur Rehman, Hafiz Syed Muhammad Bilal, **Seong Tae Kim**, Sungyoung Lee\*              
+Muhammad Asif Razzaq, Jamil Hussain, Jaehun Bang, Cam-Hao Hua, Fahad Ahmed Satti, Ubaid Ur Rehman, Hafiz Syed Muhammad Bilal, **Seong Tae Kim***, Sungyoung Lee\*              
 _Sensors_, 2023
 - **[J15]** Improved abdominal multi-organ segmentation via 3D boundary-constrained deep neural networks                                               
 **Samra Irshad**, Douglas PS Gomes, **Seong Tae Kim***              
