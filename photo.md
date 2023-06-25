@@ -9,9 +9,11 @@ subtitle: Life in AI Lab
 ## 2023
 
 #### CVPR 2023, June 2023
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/cvpr2023_1.jpg" width="700" align="center"/>
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/cvpr2023_2.jpg" width="700" align="center"/>
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/cvpr2023_3.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/cvpr2023_2.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/cvpr2023_1.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/cvpr2023_4.jpg" width="700" align="center"/>
+
 
 #### Gathering, May 2023
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/ailab_2305.jpg" width="700" align="center"/>
