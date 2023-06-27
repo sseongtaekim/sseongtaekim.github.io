@@ -9,7 +9,7 @@ subtitle: AI Lab Family
 #### Abdullah
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/Abdullah.jpg" width="200" height="265" align="left" hspace="20" />
-MS-PhD Student (2022.3~)        
+MS Student (2022.3~)        
 
 Department of Computer Science and Engineering, Kyung Hee University         
             
