@@ -10,6 +10,9 @@ subtitle: Publications
 - **[C38]** LINe: Out-of-Distribution Detection by Leveraging Important Neurons                                      
 **Yong Hyun Ahn**, Gyeong-Moon Park\*, **Seong Tae Kim***            
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 (Vancouver)    
+- **[J18]**  Interactive Segmentation for COVID-19 Infection Quantification on Longitudinal CT scans             
+Michelle Xiao-Lin Foo, **Seong Tae Kim***, Magdalini Paschali, Leili Goli, Egon Burian, Marcus Makowski, Rickmer Braren, Nassir Navab, Thomas Wendler               
+_IEEE Access_, 2023
 - **[J17]** Time Series Anomaly Detection using Transformer-based GAN with Two-Step Masking                                               
 Ahyung Shin, **Seong Tae Kim***, Gyeong-Moon Park\*              
 _IEEE Access_, 2023
@@ -30,7 +33,7 @@ _IEEE Access_, 2023
 - **[C36]** Analyzing the Effects of Handling Data Imbalance on Learned Features by Looking Into the Models               
 Ashkan Khakzar, Yawei Li, Yang Zhang, Mirac Sanisoglu, **Seong Tae Kim**, Mina Rezaei, Bernd Bischl, Nassir Navab              
 _ICML Interpretable Machine Learning in Healthcare Workshop (**ICML Workshop**)_, 2022 (Baltimore)                          
-- **[T7]**  Longitudinal Self-Supervision for COVID-19 Pathology Quantification                                
+- **[T6]**  Longitudinal Self-Supervision for COVID-19 Pathology Quantification                                
 Tobias Czempiel, Coco Rogers, Matthias Keicher, Magdalini Paschali, Rickmer Braren, Egon Burian, Marcus Makowski, Nassir Navab, Thomas Wendler, **Seong Tae Kim***                             
 _arXiv:2203.10804_, 2022 
 - **[C35]** Exploiting Diversity of Unlabeled Data for Label-Efficient Semi-Supervised Active Learning               
@@ -59,9 +62,6 @@ _International Conference on Medical Image Computing and Computer-Assisted Inter
 - **[C30]** OperA: Attention-Regularized Transformers for Surgical Phase Recognition           
 Tobias Czempiel, Magdalini Paschali, Daniel Ostler, **Seong Tae Kim**, Benjamin Busam, Nassir Navab                             
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2021 (Virtual)
-- **[T6]**  Interactive Segmentation for COVID-19 Infection Quantification on Longitudinal CT scans             
-Michelle Xiao-Lin Foo, **Seong Tae Kim***, Magdalini Paschali, Leili Goli, Egon Burian, Marcus Makowski, Rickmer Braren, Nassir Navab, Thomas Wendler               
-_arXiv:2110.00948_, 2021 
 - **[T5]**  GLOWin: A Flow-based Invertible Generative Framework for Learning Disentangled Feature Representations in Medical Images             
 Aadhithya Sankar, Matthias Keicher, Rami Eisawy, Abhijeet Parida, Franz Pfister, **Seong Tae Kim***, Nassir Navab               
 _arXiv:2103.10868_, 2021 
