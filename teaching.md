@@ -4,7 +4,11 @@ title: Teaching
 ---
 
 ### 2023
-#### Spring
+#### Fall
+- CSE203 Computer Architecture (Undergraduate)
+- AI1003 Mathematics for Artificial Intelligence (Undergraduate)
+
+- #### Spring
 - CSE203 Computer Architecture (Undergraduate)
 - AI7027 Explainable AI (Graduate)
 - AI7008 AI Practical Research Project 2	(Graduate)
@@ -41,5 +45,6 @@ title: Teaching
 ### 2019 (TU Munich)
 #### Winter
 - Computer Aided Medical Procedures I (Graudate)
+  
 #### Summer
 - Computer Aided Medical Procedures II (Graudate)
