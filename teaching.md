@@ -8,7 +8,7 @@ title: Teaching
 - CSE203 Computer Architecture (Undergraduate)
 - AI1003 Mathematics for Artificial Intelligence (Undergraduate)
 
-- #### Spring
+#### Spring
 - CSE203 Computer Architecture (Undergraduate)
 - AI7027 Explainable AI (Graduate)
 - AI7008 AI Practical Research Project 2	(Graduate)
