@@ -9,7 +9,10 @@ subtitle: Publications
 ### 2023
 - **[C38]** LINe: Out-of-Distribution Detection by Leveraging Important Neurons                                      
 **Yong Hyun Ahn**, Gyeong-Moon Park\*, **Seong Tae Kim***            
-_IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 (Vancouver)    
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 (Vancouver)
+- **[C37]** Towards Robust Audio-based Vehicle Detection via Importance-aware Audio-Visual Learning                 
+Jung Uk Kim, **Seong Tae Kim**          
+_International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**)_, 2023 (Rhodes)
 - **[J18]**  Interactive Segmentation for COVID-19 Infection Quantification on Longitudinal CT scans             
 Michelle Xiao-Lin Foo, **Seong Tae Kim***, Magdalini Paschali, Leili Goli, Egon Burian, Marcus Makowski, Rickmer Braren, Nassir Navab, Thomas Wendler               
 _IEEE Access_, 2023
@@ -22,9 +25,6 @@ _Sensors_, 2023
 - **[J15]** Improved abdominal multi-organ segmentation via 3D boundary-constrained deep neural networks                                               
 **Samra Irshad**, Douglas PS Gomes, **Seong Tae Kim***              
 _IEEE Access_, 2023 
-- **[C37]** Towards Robust Audio-based Vehicle Detection via Importance-aware Audio-Visual Learning                 
-Jung Uk Kim, **Seong Tae Kim**          
-_International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**)_, 2023 (Rhodes)
 - **[J14]** Towards Label-Efficient Neural Network Training: Diversity-based Sampling in Semi-Supervised Active Learning                             
 Felix Buchert, Nassir Navab, **Seong Tae Kim***              
 _IEEE Access_, 2023 
@@ -34,7 +34,7 @@ _IEEE Access_, 2023
 Ashkan Khakzar, Yawei Li, Yang Zhang, Mirac Sanisoglu, **Seong Tae Kim**, Mina Rezaei, Bernd Bischl, Nassir Navab              
 _ICML Interpretable Machine Learning in Healthcare Workshop (**ICML Workshop**)_, 2022 (Baltimore)                          
 - **[T6]**  Longitudinal Self-Supervision for COVID-19 Pathology Quantification                                
-Tobias Czempiel, Coco Rogers, Matthias Keicher, Magdalini Paschali, Rickmer Braren, Egon Burian, Marcus Makowski, Nassir Navab, Thomas Wendler, **Seong Tae Kim***                             
+Tobias Czempiel, Coco Rogers, Matthias Keicher, Magdalini Paschali, Rickmer Braren, Egon Burian, Marcus Makowski, Nassir Navab, Thomas Wendler, **Seong Tae Kim***                   
 _arXiv:2203.10804_, 2022 
 - **[C35]** Exploiting Diversity of Unlabeled Data for Label-Efficient Semi-Supervised Active Learning               
 Felix Buchert, Nassir Navab, **Seong Tae Kim***              
@@ -47,9 +47,6 @@ _IEEE Transactions on Image Processing (**TIP**)_, 2022
 - **[C34]** Fine-Grained Neural Network Explanation by Identifying Input Features with Predictive Information            
 Yang Zhang, Ashkan Khakzar, Yawei Li, Azade Farshad, **Seong Tae Kim***, Nassir Navab              
 _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2021 (Virtual)
-- **[J12]**  Longitudinal Brain MR Image Modeling using Personalized Memory for Alzheimer’s Disease                      
-**Seong Tae Kim***, Umut Küçükaslan (co-first), Nassir Navab                 
-_IEEE Access_, 2021
 - **[C33]** Longitudinal Quantitative Assessment of COVID-19 Infection Progression from Chest CTs            
 **Seong Tae Kim***, Leili Goli (co-first), Magdalini Paschali, Ashkan Khakzar, Matthias Keicher, Tobias Czempiel, Egon Burian, Rickmer Braren, Nassir Navab, Thomas Wendler                             
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2021 (Virtual)
@@ -62,12 +59,15 @@ _International Conference on Medical Image Computing and Computer-Assisted Inter
 - **[C30]** OperA: Attention-Regularized Transformers for Surgical Phase Recognition           
 Tobias Czempiel, Magdalini Paschali, Daniel Ostler, **Seong Tae Kim**, Benjamin Busam, Nassir Navab                             
 _International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**)_, 2021 (Virtual)
-- **[T5]**  GLOWin: A Flow-based Invertible Generative Framework for Learning Disentangled Feature Representations in Medical Images             
-Aadhithya Sankar, Matthias Keicher, Rami Eisawy, Abhijeet Parida, Franz Pfister, **Seong Tae Kim***, Nassir Navab               
-_arXiv:2103.10868_, 2021 
 - **[C29]** Neural Response Interpretation through the Lens of Critical Pathways           
 Ashkan Khakzar, Soroosh Baselizadeh, Saurabh Khanduja, Christian Rupprecht, **Seong Tae Kim***, Nassir Navab                            
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2021 (Virtual)
+- **[J12]**  Longitudinal Brain MR Image Modeling using Personalized Memory for Alzheimer’s Disease                      
+**Seong Tae Kim***, Umut Küçükaslan (co-first), Nassir Navab                 
+_IEEE Access_, 2021
+- **[T5]**  GLOWin: A Flow-based Invertible Generative Framework for Learning Disentangled Feature Representations in Medical Images             
+Aadhithya Sankar, Matthias Keicher, Rami Eisawy, Abhijeet Parida, Franz Pfister, **Seong Tae Kim***, Nassir Navab               
+_arXiv:2103.10868_, 2021                   
 - **[C28]** Butterfly-Net: Spatial-Temporal Architecture for Medical Image Segmentation           
 Tetiana Klymenko, **Seong Tae Kim**, Kirsten Lauber, Christopher Kurz, Guillaume Landry, Nassir Navab, Shadi Albarqouni                           
 _IEEE International Symposium on Biomedical Imaging (**ISBI**)_, 2021 (Virtual)
