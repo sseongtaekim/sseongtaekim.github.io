@@ -9,18 +9,17 @@ subtitle: Projects
 <hr>
 
 #### Research Projects
-- Reliable DL/Uncertainty Estimation (Supported by National Research Foundation (2021-2024))         
-- Explainable Logical Reasoning (Supported by IITP (2022-2026)) [사람중심 인공지능 핵심원천기술개발]        
-- Dense Video Captioning (Supported by ETRI (2023-2025))        
-
-
-#### Human Resource Development 
+- Efficient Uncertainty Analysis of DNN for Reliable Prediction (Supported by National Research Foundation (2021-2024))         
+- Explainable Logical Reasoning for Medical Knowledge Generation (Supported by IITP (2022-2026)) [사람중심 인공지능 핵심원천기술개발]        
+- Memory-based Long Video Understanding: Application to Dense Video Captioning (Supported by ETRI (2023-2025))       
+           
 - Artificial Intelligence Innovation Hub (Supported by IITP (2021-2025))          
-- Artificial Intelligence Convergence Innovation Human Resources Development (Supported by IITP (2022-2025))
+- Artificial Intelligence Convergence Innovation Human Resources Development (Supported by IITP (2022-2025))              
 <br>
 
 ### Completed Projects
 
 <hr>
-- Memory-based Video Object Segmentation (Supported by ETRI (2021,2022))                         
+- Memory-based Video Object Segmentation (Supported by ETRI (2022))    
+- Research on Visual Memory and Recall for Video Understanding (Supported by ETRI (2022))  
 - Semisupervised Active Learning (Supported by Kyung Hee University (2021-2022))               
