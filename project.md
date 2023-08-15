@@ -20,6 +20,6 @@ subtitle: Projects
 ### Completed Projects
 
 <hr>
-- Memory-based Video Object Segmentation (Supported by ETRI (2022))    
-- Research on Visual Memory and Recall for Video Understanding (Supported by ETRI (2022))  
+- Memory-based Video Object Segmentation (Supported by ETRI (2022))                   
+- Research on Visual Memory and Recall for Video Understanding (Supported by ETRI (2022))                             
 - Semisupervised Active Learning (Supported by Kyung Hee University (2021-2022))               
