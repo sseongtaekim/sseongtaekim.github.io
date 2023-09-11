@@ -40,6 +40,8 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 202
 - **[SP10]**  CUA Loss: Class Uncertainty-Aware Gradient Modulation for Robust Object Detection                      
 Jung Uk Kim, **Seong Tae Kim**, Hong Joo Lee, Sangmin Lee, Yong Man Ro                 
 _IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)_, 2021
+
+### Before 2021
 - **[SP9]**  Force-Ultrasound Fusion: Bringing Spine Robotic-US to the Next "Level"                      
 Maria Tirindelli, Maria Victorova, Javier Esteban, **Seong Tae Kim**, David Navarro-Alarcon, Yong Ping Zheng, Nassir Navab                 
 _IEEE Robotics and Automation Letters (**RA-L**)_, 2020                                
