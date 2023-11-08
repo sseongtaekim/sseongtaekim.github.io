@@ -7,6 +7,9 @@ subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 
 *: Corresponding Author                        
 
+- **[SP21]** Exploiting Recollection Effects for Memory-based Video Object Segmentation                                                 
+**Enki Cho**, **Minkuk Kim**, Hyung-Il Kim, Jinyoung Moon, **Seong Tae Kim***            
+_Image and Vision Computing_, 2023 
 - **[SP20]** LINe: Out-of-Distribution Detection by Leveraging Important Neurons                                      
 **Yong Hyun Ahn**, Gyeong-Moon Park\*, **Seong Tae Kim***            
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 (Vancouver)  
