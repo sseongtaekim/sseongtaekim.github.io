@@ -15,13 +15,14 @@ Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, 
 
 ### Recent News
 <hr>
-- 23.3 One paper got accepted to **IEEE Access**! Congrats Sam!
-- 23.2 One paper got accepted to **CVPR 2023**! Congrats Yong Hyun!
-- 23.2 One paper got accepted to **ICASSP 2023**! Congrats!
-- 23.2 Hyunbae and Yebin joined the lab as MS students! Welcome!
-- 23.2 Prof. Seong Tae Kim will serve as an Area Chair of **MICCAI 2023**!
-- 23.1 Oh Sung joined the lab as a BS intern! Welcome!
-- 22.2 Prof. Seong Tae Kim will serve as an Area Chair of **MICCAI 2022**!
-- 22.1 Prof. Seong Tae Kim will serve as an Associate Editor of **IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)**!
+- Nov. 2023 One paper got accepted to **Image and Vision Computing**! Congrats Enki!
+- Mar. 2023 One paper got accepted to **IEEE Access**! Congrats Sam!
+- Feb. 2023 One paper got accepted to **CVPR 2023**! Congrats Yong Hyun!
+- Feb. 2023 One paper got accepted to **ICASSP 2023**! Congrats!
+- Feb. 2023 Hyunbae and Yebin joined the lab as MS students! Welcome!
+- Feb. 2023 Prof. Seong Tae Kim will serve as an Area Chair of **MICCAI 2023**!
+- Jan. 2023 Oh Sung joined the lab as a BS intern! Welcome!
+- Feb. 2022 Prof. Seong Tae Kim will serve as an Area Chair of **MICCAI 2022**!
+- Jan. 2023 Prof. Seong Tae Kim will serve as an Associate Editor of **IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)**!
 
 #Explainable AI #Reliable AI #Responsible AI #Multimodal AI
