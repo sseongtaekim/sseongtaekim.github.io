@@ -23,6 +23,6 @@ Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, 
 - Feb. 2023 Prof. Seong Tae Kim will serve as an Area Chair of **MICCAI 2023**!
 - Jan. 2023 Oh Sung joined the lab as a BS intern! Welcome!
 - Feb. 2022 Prof. Seong Tae Kim will serve as an Area Chair of **MICCAI 2022**!
-- Jan. 2023 Prof. Seong Tae Kim will serve as an Associate Editor of **IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)**!
+- Jan. 2022 Prof. Seong Tae Kim will serve as an Associate Editor of **IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)**!
 
 #Explainable AI #Reliable AI #Responsible AI #Multimodal AI
