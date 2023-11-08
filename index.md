@@ -15,7 +15,7 @@ Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, 
 
 ### Recent News
 <hr>
-- Nov. 2023 One paper got accepted to **Image and Vision Computing**! Congrats Enki!
+- Nov. 2023 One paper got accepted to **Image and Vision Computing (IF: 4.7, JCR IF Rank 18.5%)**! Congrats Enki!
 - Mar. 2023 One paper got accepted to **IEEE Access**! Congrats Sam!
 - Feb. 2023 One paper got accepted to **CVPR 2023**! Congrats Yong Hyun!
 - Feb. 2023 One paper got accepted to **ICASSP 2023**! Congrats!
