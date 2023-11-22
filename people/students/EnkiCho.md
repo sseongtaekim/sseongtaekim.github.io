@@ -23,3 +23,8 @@ cekkec@khu.ac.kr
 * Memory Networks
 * Uncertainty Estimation
 <hr>
+
+#### Publication
+- **[J1]** Exploiting Recollection Effects for Memory-based Video Object Segmentation                                                 
+**Enki Cho**, Minkuk Kim, Hyung-Il Kim, Jinyoung Moon, Seong Tae Kim           
+_Image and Vision Computing_, 2023
