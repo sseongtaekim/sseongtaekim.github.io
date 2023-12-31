@@ -16,7 +16,6 @@ subtitle: AI Lab Family
 * [Enki Cho](students/EnkiCho.md) (Student Representative)
 * [Yong Hyun Ahn](students/YongHyunAhn.md)
 * [Ameer Hamza](students/AmeerHamza.md)
-
 * [Samra Irshad](students/Sam.md)
 
 #### Undergraduate Interns
