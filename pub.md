@@ -8,7 +8,8 @@ subtitle: Publications
 
 ### 2024
 - **[C39]** Dissecting Mixed-Sample Data Augmentation Models via Neural-Concept Association                                      
-**Soyoun Won**, Sung-Ho Bae, **Seong Tae Kim***        
+**Soyoun Won**, Sung-Ho Bae, **Seong Tae Kim***         
+_International Conference on Information Networking_, 2024 (Ho Chi Minh City)
 
 ### 2023 (7J, 2C)
 - **[J20]** Exploiting Recollection Effects for Memory-based Video Object Segmentation                                                 
