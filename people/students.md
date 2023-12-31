@@ -3,7 +3,13 @@ layout: page
 title: People
 subtitle: AI Lab Family
 ---
-
+  
+#### PhD/MS-PhD students
+* [Enki Cho](students/EnkiCho.md) (Student Representative)
+* [Yong Hyun Ahn](students/YongHyunAhn.md)
+* [Ameer Hamza](students/AmeerHamza.md)
+* [Samra Irshad](students/Sam.md)
+  
 #### MS students
 * [Minkuk Kim](students/MinKukKim.md)
 * [Soyoun Won](students/SoyeonOne.md)
@@ -11,12 +17,6 @@ subtitle: AI Lab Family
 * [Hyeonbae Kim](students/HyeonbaeKim.md)
 * Yebin Ji
 * [Oh Sung Choo](students/OhsungChoo.md)
-  
-#### PhD/MS-PhD students
-* [Enki Cho](students/EnkiCho.md) (Student Representative)
-* [Yong Hyun Ahn](students/YongHyunAhn.md)
-* [Ameer Hamza](students/AmeerHamza.md)
-* [Samra Irshad](students/Sam.md)
 
 #### Undergraduate Interns
 * Soo Hyun Im
