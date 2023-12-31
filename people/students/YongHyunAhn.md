@@ -10,7 +10,6 @@ subtitle: AI Lab Family
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/YongHyunAhn.jpg" width="200" height="265" align="left" hspace="20" />
 PhD Student (2024.3~)               
-
 Master Student (2022.3~2024.2)       
 
 Department of Artificial Intelligence, Kyung Hee University         
