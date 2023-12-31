@@ -9,9 +9,9 @@ subtitle: AI Lab Family
 #### Oh Sung Choo
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/OhsungChoo.jpg" width="200" height="265" align="left" hspace="20" />
-Undergraduate Intern (2023.1~)        
+Master Student (2024.3~)        
 
-Department of Electrical Engineering, Kyung Hee University         
+Department of Artificial Intelligence, Kyung Hee University         
             
 
 **Contact**  
