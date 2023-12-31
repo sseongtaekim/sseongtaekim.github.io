@@ -6,6 +6,10 @@ subtitle: Publications
 *: Corresponding Author                        
 **Bold**: Member of Augmented Intelligence Lab.              
 
+### 2024
+- **[C39]** Dissecting Mixed-Sample Data Augmentation Models via Neural-Concept Association                                      
+**Soyoun Won**, Sung-Ho Bae, **Seong Tae Kim***        
+
 ### 2023 (7J, 2C)
 - **[J20]** Exploiting Recollection Effects for Memory-based Video Object Segmentation                                                 
 **Enki Cho**, **Minkuk Kim**, Hyung-Il Kim, Jinyoung Moon, **Seong Tae Kim***            
