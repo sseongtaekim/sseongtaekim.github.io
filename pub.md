@@ -14,7 +14,7 @@ _International Conference on Information Networking_, 2024 (Ho Chi Minh City)
 Chu Myaet Thwal, Minh N. H. Nguyen, Ye Lin Tun, **Seong Tae Kim**, My T. Thai, Choong Seon Hong            
 _Neural Networks_, 2024
 
-### 2023 (7J, 2C)
+### 2023 
 - **[J19]** Exploiting Recollection Effects for Memory-based Video Object Segmentation                                                 
 **Enki Cho**, **Minkuk Kim**, Hyung-Il Kim, Jinyoung Moon, **Seong Tae Kim***            
 _Image and Vision Computing_, 2023
@@ -40,7 +40,7 @@ _IEEE Access_, 2023
 Felix Buchert, Nassir Navab, **Seong Tae Kim***              
 _IEEE Access_, 2023 
 
-### 2022 (1J, 2C)    
+### 2022 
 - **[C36]** Analyzing the Effects of Handling Data Imbalance on Learned Features by Looking Into the Models               
 Ashkan Khakzar, Yawei Li, Yang Zhang, Mirac Sanisoglu, **Seong Tae Kim**, Mina Rezaei, Bernd Bischl, Nassir Navab              
 _ICML Interpretable Machine Learning in Healthcare Workshop (**ICML Workshop**)_, 2022 (Baltimore)                          
@@ -54,7 +54,7 @@ _International Conference on Pattern Recognition (**ICPR**)_, 2022 (Montreal)
 Junho Kim, Seongyeop Kim, **Seong Tae Kim**, Yong Man Ro                 
 _IEEE Transactions on Image Processing (**TIP**)_, 2022
 
-### 2021 (2J, 7C)
+### 2021 
 - **[C34]** Fine-Grained Neural Network Explanation by Identifying Input Features with Predictive Information            
 Yang Zhang, Ashkan Khakzar, Yawei Li, Azade Farshad, **Seong Tae Kim***, Nassir Navab              
 _Conference on Neural Information Processing Systems (**NeurIPS**)_, 2021 (Virtual)
