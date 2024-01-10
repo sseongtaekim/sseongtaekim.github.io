@@ -12,7 +12,7 @@ subtitle: Life in AI Lab
 ## 2023
 
 #### Gathering: Bowling, December 2023
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/2023December.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/2023December.jpg" width="500" align="center"/>
 
 #### CVPR 2023, June 2023
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/cvpr2023_3.jpg" width="700" align="center"/>
