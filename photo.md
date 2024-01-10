@@ -5,6 +5,7 @@ subtitle: Life in AI Lab
 ---
 
 <hr>
+
 ## 2024
 
 #### Workshop, January 2024
