@@ -15,6 +15,7 @@ Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, 
 
 ### Recent News
 <hr>
+- Jan. 2024 One paper got accepted to **ICOIN 2024**! Congrats Soyoun!
 - Nov. 2023 One paper got accepted to **Image and Vision Computing (IF: 4.7, JCR IF Rank 18.5%)**! Congrats Enki!
 - Nov. 2023 One paper got accepted to **Neural Networks (IF: 7.8, JCR IF Rank 9.5%)**!         
 - Mar. 2023 One paper got accepted to **IEEE Access**! Congrats Sam!
