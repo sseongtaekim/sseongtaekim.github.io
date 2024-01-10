@@ -6,6 +6,7 @@ subtitle: Life in AI Lab
 
 <hr>
 ## 2024
+
 #### Workshop, January 2024
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/2024Jan.jpg" width="700" align="center"/>
 
