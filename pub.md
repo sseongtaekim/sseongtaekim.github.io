@@ -10,14 +10,14 @@ subtitle: Publications
 - **[C39]** Dissecting Mixed-Sample Data Augmentation Models via Neural-Concept Association                                      
 **Soyoun Won**, Sung-Ho Bae, **Seong Tae Kim***         
 _International Conference on Information Networking_, 2024 (Ho Chi Minh City)
+- **[J20]** OnDev-LCT: On-Device Lightweight Convolutional Transformers towards Federated Learning                                                 
+Chu Myaet Thwal, Minh N. H. Nguyen, Ye Lin Tun, **Seong Tae Kim**, My T. Thai, Choong Seon Hong            
+_Neural Networks_, 2024
 
 ### 2023 (7J, 2C)
-- **[J20]** Exploiting Recollection Effects for Memory-based Video Object Segmentation                                                 
+- **[J19]** Exploiting Recollection Effects for Memory-based Video Object Segmentation                                                 
 **Enki Cho**, **Minkuk Kim**, Hyung-Il Kim, Jinyoung Moon, **Seong Tae Kim***            
 _Image and Vision Computing_, 2023
-- **[J19]** OnDev-LCT: On-Device Lightweight Convolutional Transformers towards Federated Learning                                                 
-Chu Myaet Thwal, Minh N. H. Nguyen, Ye Lin Tun, **Seong Tae Kim**, My T. Thai, Choong Seon Hong            
-_Neural Networks_, 2023     
 - **[C38]** LINe: Out-of-Distribution Detection by Leveraging Important Neurons                                      
 **Yong Hyun Ahn**, Gyeong-Moon Park\*, **Seong Tae Kim***            
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 (Vancouver)
