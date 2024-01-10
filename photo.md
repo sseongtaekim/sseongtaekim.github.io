@@ -5,8 +5,14 @@ subtitle: Life in AI Lab
 ---
 
 <hr>
+## 2024
+#### Workshop, January 2024
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/2024Jan.jpg" width="700" align="center"/>
 
 ## 2023
+
+#### Gathering: Bowling, December 2023
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/2023December.jpg" width="700" align="center"/>
 
 #### CVPR 2023, June 2023
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/cvpr2023_3.jpg" width="700" align="center"/>
