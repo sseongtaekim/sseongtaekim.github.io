@@ -21,8 +21,8 @@ cekkec@khu.ac.kr
 
 #### Research Interest
 * Video Segmentation
-* Memory Networks
-* Uncertainty Estimation
+* Uncertainty Analysis
+* Learning under Noisy Labels
 <hr>
 
 #### Publication
