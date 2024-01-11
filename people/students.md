@@ -20,4 +20,6 @@ subtitle: AI Lab Family
 
 #### Undergraduate Interns
 * Soo Hyun Im
-* Ka Young Kim 
+* Ka Young Kim
+* Heedong Kim
+* Jehyun Park
