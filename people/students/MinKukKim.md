@@ -19,7 +19,6 @@ asdjklfgh97@khu.ac.kr
 #351, Electronic Information College Building, 1732 Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi-do, 17104, South Korea  
 
 #### Research Interest
-* Video Segmentation
-* Uncertainty Estimation
-* Video Dense Captioning
+* Video Object Segmentation
+* Dense Video Captioning
 <hr>
