@@ -3,6 +3,11 @@ layout: page
 title: Teaching
 ---
 
+### 2024
+#### Spring
+- CSE203 Computer Architecture (Undergraduate)
+- AI3007 Statistical Learning Theory (Undergraduate)
+  
 ### 2023
 #### Fall
 - CSE203 Computer Architecture (Undergraduate)
