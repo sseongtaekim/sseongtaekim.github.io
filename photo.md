@@ -9,7 +9,7 @@ subtitle: Life in AI Lab
 ## 2024
 
 #### ICOIN24, January 2024
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/icoin24.jpg" width="700" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/icoin24.jpg.jpg" width="700" align="center"/>
 
 
 #### Workshop, January 2024
