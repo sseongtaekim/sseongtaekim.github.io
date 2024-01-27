@@ -9,6 +9,7 @@ subtitle: AI Lab Family
 * [Yong Hyun Ahn](students/YongHyunAhn.md)
 * [Ameer Hamza](students/AmeerHamza.md)
 * [Samra Irshad](students/Sam.md)
+* Ka Young Kim
   
 #### MS students
 * [Minkuk Kim](students/MinKukKim.md)
@@ -20,6 +21,5 @@ subtitle: AI Lab Family
 
 #### Undergraduate Interns
 * Soo Hyun Im
-* Ka Young Kim
 * Heedong Kim
 * Jehyun Park
