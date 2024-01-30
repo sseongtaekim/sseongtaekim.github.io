@@ -10,6 +10,7 @@ subtitle: AI Lab Family
 * [Ameer Hamza](students/AmeerHamza.md)
 * [Samra Irshad](students/Sam.md)
 * Ka Young Kim
+* Rao Faizan
   
 #### MS students
 * [Minkuk Kim](students/MinKukKim.md)
