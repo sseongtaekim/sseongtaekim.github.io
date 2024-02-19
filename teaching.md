@@ -6,7 +6,7 @@ title: Teaching
 ### 2024
 #### Spring
 - CSE203 Computer Architecture (Undergraduate)
-- AI3007 Statistical Learning Theory (Undergraduate)
+- AI7001 AI and Ethics (Graduate)
   
 ### 2023
 #### Fall
@@ -16,7 +16,7 @@ title: Teaching
 #### Spring
 - CSE203 Computer Architecture (Undergraduate)
 - AI7027 Explainable AI (Graduate)
-- AI7008 AI Practical Research Project 2	(Graduate)
+- AI7008 AI Practical Research Project 2 (Graduate)
  
 ### 2022
 #### Fall
