@@ -8,8 +8,8 @@ subtitle: Life in AI Lab
 
 ## 2024
 ####Commencement, February 2024
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/Commencement24F.jpg.jpg" width="500" align="center"/>
-<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/Commencement24F-2.jpg.jpg" width="500" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/Commencement24F.jpg" width="500" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/Commencement24F-2.jpg" width="500" align="center"/>
 
 
 #### ICOIN24, January 2024
