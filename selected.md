@@ -6,7 +6,12 @@ subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 [Full publication list](https://ailab.khu.ac.kr/pub/)
 
 *: Corresponding Author                        
-
+- **[SP24]** WWW: A Unified Framework for Explaining What, Where and Why of Neural Networks by Interpretation of Neuron Concept                                      
+**Yong Hyun Ahn**, **Hyeon Bae Kim**, **Seong Tae Kim***            
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2024 (Seattle)
+- **[SP23]** Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval                                      
+**Minkuk Kim**, **Hyeon Bae Kim**, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***           
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2024 (Seattle)
 - **[SP22]** OnDev-LCT: On-Device Lightweight Convolutional Transformers towards Federated Learning                                                 
 Chu Myaet Thwal, Minh N. H. Nguyen, Ye Lin Tun, **Seong Tae Kim**, My T. Thai, Choong Seon Hong            
 _Neural Networks_, 2024
