@@ -25,8 +25,11 @@ yhahn@khu.ac.kr
 * Uncertainty Estimation
 
 #### Publication
+- **[C2]** WWW: A Unified Framework for Explaining What, Where and Why of Neural Networks by Interpretation of Neuron Concept                                      
+**Yong Hyun Ahn**, Hyeon Bae Kim, Seong Tae Kim          
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2024 (Seattle)
 - **[C1]** LINe: Out-of-Distribution Detection by Leveraging Important Neurons                                      
-**Yong Hyun Ahn**, Gyeong-Moon Park\*, **Seong Tae Kim***            
+**Yong Hyun Ahn**, Gyeong-Moon Park, Seong Tae Kim            
 _Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 (Vancouver)   
 
 <hr>
