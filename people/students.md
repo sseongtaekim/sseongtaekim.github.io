@@ -24,3 +24,9 @@ subtitle: AI Lab Family
 * Soo Hyun Im
 * Heedong Kim
 * Jehyun Park
+
+
+
+#### Alumni
+* [Enki Cho](students/EnkiCho.md) (MS 2024), PhD candidate in AILab
+* [Yong Hyun Ahn](students/YongHyunAhn.md) (MS 2024), PhD candidate in AILab
