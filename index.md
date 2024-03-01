@@ -15,7 +15,7 @@ Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, 
 
 ### Recent News
 <hr>
-- Feb. 2024 Two papers on Vision-Language Model got accepted to **CVPR 2024**! Congrats Yong Hyun, Minkuk, Hyeonbae!
+- Feb. 2024 Two papers (on Vision-Language Models) got accepted to **CVPR 2024**! Congrats Yong Hyun, Minkuk, Hyeonbae!
 - Feb. 2024 Enki and Yong Hyun completed their MS program and joined as PhD students! Congrats!  
 - Feb. 2024 Oh Sung and Ka Young joined the lab as a MS student and combined MS-PhD students! Welcome!
 - Feb. 2024 Prof. Seong Tae Kim will serve as an Area Chair of **MICCAI 2024**!
