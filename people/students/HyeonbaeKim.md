@@ -21,4 +21,12 @@ hyeonbae.kim@khu.ac.kr
 #### Research Interest
 * Video Captioning
 * Explainable AI
+
+#### Publication
+- **[C2]** WWW: A Unified Framework for Explaining What, Where and Why of Neural Networks by Interpretation of Neuron Concept                                      
+Yong Hyun Ahn, **Hyeon Bae Kim**, Seong Tae Kim            
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2024 (Seattle)
+- **[C1]** Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval                                      
+Minkuk Kim, **Hyeon Bae Kim**, Jinyoung Moon, Jinwoo Choi, Seong Tae Kim         
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2024 (Seattle)
 <hr>
