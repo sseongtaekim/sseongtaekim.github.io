@@ -26,7 +26,6 @@ asdjklfgh97@khu.ac.kr
 - **[C1]** Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval                                      
 **Minkuk Kim**, Hyeon Bae Kim, Jinyoung Moon, Jinwoo Choi, Seong Tae Kim           
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2024 (Seattle)
-
 - **[J1]** Exploiting Recollection Effects for Memory-based Video Object Segmentation                                                 
 Enki Cho, **Minkuk Kim**, Hyung-Il Kim, Jinyoung Moon, Seong Tae Kim            
 _Image and Vision Computing_, 2023
