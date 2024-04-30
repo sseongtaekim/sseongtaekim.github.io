@@ -15,6 +15,7 @@ Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, 
 
 ### Recent News
 <hr>
+- Apr. 2024 AI lab has been awarded a research grant from NRF for 3 years (Outstanding Young Researcher-우수신진연구)!
 - Feb. 2024 Two papers (on Vision-Language Models) got accepted to **CVPR 2024**! Congrats Yong Hyun, Minkuk, Hyeonbae!
 - Feb. 2024 Enki and Yong Hyun completed their MS program and joined as PhD students! Congrats!  
 - Feb. 2024 Oh Sung and Ka Young joined the lab as a MS student and combined MS-PhD students! Welcome!
