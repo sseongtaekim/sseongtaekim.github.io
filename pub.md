@@ -7,12 +7,18 @@ subtitle: Publications
 **Bold**: Member of Augmented Intelligence Lab.              
 
 ### 2024
-- **[C41]** WWW: A Unified Framework for Explaining What, Where and Why of Neural Networks by Interpretation of Neuron Concept                                      
+- **[C43]** WWW: A Unified Framework for Explaining What, Where and Why of Neural Networks by Interpretation of Neuron Concept                                      
 **Yong Hyun Ahn**, **Hyeon Bae Kim**, **Seong Tae Kim***            
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2024 (Seattle)
-- **[C40]** Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval                                      
+- **[C42]** Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval                                      
 **Minkuk Kim**, **Hyeon Bae Kim**, Jinyoung Moon, Jinwoo Choi\*, **Seong Tae Kim***           
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2024 (Seattle)
+- **[C41]** Retrieval-Augmented Natural Language Reasoning for Explainable Visual Question Answering                                      
+**Su Hyeon Lim**, **Minkuk Kim**, **Hyeonbae Kim**, **Seong Tae Kim***           
+_Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at International Conference on Image Processing (ICIPW)_, 2024 (Abu Dhabi)
+- **[C40]** Resource-Efficient Medical Report Generation using Large Language Models                                      
+**Abdullah**, **Ameer Hamza**, **Seong Tae Kim**           
+_International Technical Conference on Circuits/Systems, Computers, and Communications_, 2024 (Okinawa)
 - **[C39]** Dissecting Mixed-Sample Data Augmentation Models via Neural-Concept Association                                      
 **Soyoun Won**, Sung-Ho Bae, **Seong Tae Kim***         
 _International Conference on Information Networking_, 2024 (Ho Chi Minh City)
