@@ -16,7 +16,7 @@ subtitle: AI Lab Family
 * [Minkuk Kim](students/MinKukKim.md)
 * [Soyoun Won](students/SoyeonOne.md)
 * [Abdullah](students/Abdullah.md)
-* [Hyeonbae Kim](students/HyeonbaeKim.md)
+* [Hyeon Bae Kim](students/HyeonbaeKim.md)
 * Yebin Ji
 * [Oh Sung Choo](students/OhsungChoo.md)
 
