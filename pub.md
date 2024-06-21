@@ -7,6 +7,10 @@ subtitle: Publications
 **Bold**: Member of Augmented Intelligence Lab.              
 
 ### 2024
+- **[C43]** Mask-Free Neuron Concept Annotation for Interpreting Neural Networks in Medical Domain
+                                       
+**Hyeon Bae Kim**, **Yong Hyun Ahn (co-first)**, **Seong Tae Kim***            
+_International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2024 (MARRAKESH)
 - **[C43]** WWW: A Unified Framework for Explaining What, Where and Why of Neural Networks by Interpretation of Neuron Concept                                      
 **Yong Hyun Ahn**, **Hyeon Bae Kim**, **Seong Tae Kim***            
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2024 (Seattle)
