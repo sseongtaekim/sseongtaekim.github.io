@@ -23,6 +23,12 @@ hyeonbae.kim@khu.ac.kr
 * Explainable AI
 
 #### Publication
+- **[C4]** Mask-Free Neuron Concept Annotation for Interpreting Neural Networks in Medical Domain                                           
+**Hyeon Bae Kim**, Yong Hyun Ahn (co-first), Seong Tae Kim            
+_International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2024 (Marrakesh)
+- **[C3]** Retrieval-Augmented Natural Language Reasoning for Explainable Visual Question Answering                            
+Su Hyeon Lim, Minkuk Kim, **Hyeon Bae Kim**, Seong Tae Kim           
+_Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at International Conference on Image Processing (ICIPW)_, 2024 (Abu Dhabi)
 - **[C2]** WWW: A Unified Framework for Explaining What, Where and Why of Neural Networks by Interpretation of Neuron Concept                                      
 Yong Hyun Ahn, **Hyeon Bae Kim**, Seong Tae Kim            
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2024 (Seattle)
