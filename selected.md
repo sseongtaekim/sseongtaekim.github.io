@@ -8,7 +8,7 @@ subtitle: Selected Publications (Top-conference/JCR 20% Journal)
 *: Corresponding Author                        
 - **[SP25]** Mask-Free Neuron Concept Annotation for Interpreting Neural Networks in Medical Domain                                           
 **Hyeon Bae Kim**, **Yong Hyun Ahn (co-first)**, **Seong Tae Kim***
-_ INTERNATIONAL CONFERENCE ON MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION (**MICCAI**)_, 2024 (MARRAKESH )
+_ International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2024 (MARRAKESH )
 
 - **[SP24]** WWW: A Unified Framework for Explaining What, Where and Why of Neural Networks by Interpretation of Neuron Concept                                      
 **Yong Hyun Ahn**, **Hyeon Bae Kim**, **Seong Tae Kim***            
