@@ -24,7 +24,7 @@ asdjklfgh97@khu.ac.kr
 
 #### Publication
 - **[C2]** Retrieval-Augmented Natural Language Reasoning for Explainable Visual Question Answering                                      
-**Su Hyeon Lim**, **Minkuk Kim**, **Hyeon Bae Kim**, **Seong Tae Kim***           
+Su Hyeon Lim, **Minkuk Kim**, Hyeon Bae Kim, Seong Tae Kim           
 _Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at International Conference on Image Processing (ICIPW)_, 2024 (Abu Dhabi)               
 - **[C1]** Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval                                      
 **Minkuk Kim**, Hyeon Bae Kim, Jinyoung Moon, Jinwoo Choi, Seong Tae Kim           
