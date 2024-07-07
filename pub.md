@@ -7,9 +7,12 @@ subtitle: Publications
 **Bold**: Member of Augmented Intelligence Lab.              
 
 ### 2024
-- **[C44]** Mask-Free Neuron Concept Annotation for Interpreting Neural Networks in Medical Domain                                           
+- **[C45]** Mask-Free Neuron Concept Annotation for Interpreting Neural Networks in Medical Domain                                           
 **Hyeon Bae Kim**, **Yong Hyun Ahn (co-first)**, **Seong Tae Kim***            
 _International Conference On Medical Image Computing & Computer Assisted Intervention (**MICCAI**)_, 2024 (Marrakesh)
+- **[C44]** MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection                                      
+Youngmin Oh, Hyung-Il Kim, **Seong Tae Kim***, Jung Uk Kim*            
+_European Conference on Computer Vision (**ECCV**)_, 2024 (Milan)
 - **[C43]** WWW: A Unified Framework for Explaining What, Where and Why of Neural Networks by Interpretation of Neuron Concept                                      
 **Yong Hyun Ahn**, **Hyeon Bae Kim**, **Seong Tae Kim***            
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2024 (Seattle)
