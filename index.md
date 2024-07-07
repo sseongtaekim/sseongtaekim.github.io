@@ -15,10 +15,11 @@ Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, 
 
 ### Recent News
 <hr>
+- Jul. 2024 One paper got accepted to **ECCV 2024**! Congrats!
 - Jun. 2024 One paper got accepted to **MICCAI 2024**! Congrats Hyeon Bae, Yong Hyun!
 - Jun. 2024 One paper got accepted to **ICIP Workshop 2024**! Congrats Su Hyeon, Minkuk, Hyeon Bae!
 - May 2024 One paper got accepted to **ITC-CSCC 2024**! Congrats Abdullah, Hamza!
-- Apr. 2024 A new research grant on Interactive Surgical Video Interpretation has been awarded from NRF (Outstanding Young Researcher Grant, 873M KRW)! 
+- Apr. 2024 A new research grant on Interactive Surgical Video Interpretation has been awarded from NRF (Outstanding Young Researcher Grant)! 
 - Feb. 2024 Two papers (on Vision-Language Models) got accepted to **CVPR 2024**! Congrats Yong Hyun, Minkuk, Hyeon Bae!
 - Feb. 2024 Enki and Yong Hyun completed their MS program and joined as PhD students! Congrats!  
 - Feb. 2024 Oh Sung and Ka Young joined the lab as a MS student and combined MS-PhD students! Welcome!
