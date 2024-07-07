@@ -21,7 +21,7 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 202
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2024 (Seattle)
 - **[C41]** Retrieval-Augmented Natural Language Reasoning for Explainable Visual Question Answering                                      
 **Su Hyeon Lim**, **Minkuk Kim**, **Hyeon Bae Kim**, **Seong Tae Kim***           
-_Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at International Conference on Image Processing (ICIPW)_, 2024 (Abu Dhabi)
+_International Conference on Image Processing Workshop (ICIPW)_, 2024 (Abu Dhabi)
 - **[C40]** Resource-Efficient Medical Report Generation using Large Language Models                                      
 **Abdullah**, **Ameer Hamza**, **Seong Tae Kim***           
 _International Technical Conference on Circuits/Systems, Computers, and Communications_, 2024 (Okinawa)
