@@ -23,7 +23,7 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 202
 **Su Hyeon Lim**, **Minkuk Kim**, **Hyeon Bae Kim**, **Seong Tae Kim***           
 _Integrating Image Processing with Large-Scale Vision/Language Models for Advanced Visual Understanding Workshop at International Conference on Image Processing (ICIPW)_, 2024 (Abu Dhabi)
 - **[C40]** Resource-Efficient Medical Report Generation using Large Language Models                                      
-**Abdullah**, **Ameer Hamza**, **Seong Tae Kim**           
+**Abdullah**, **Ameer Hamza**, **Seong Tae Kim***           
 _International Technical Conference on Circuits/Systems, Computers, and Communications_, 2024 (Okinawa)
 - **[C39]** Dissecting Mixed-Sample Data Augmentation Models via Neural-Concept Association                                      
 **Soyoun Won**, Sung-Ho Bae, **Seong Tae Kim***         
