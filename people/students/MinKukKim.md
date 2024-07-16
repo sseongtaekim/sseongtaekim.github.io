@@ -15,8 +15,8 @@ Department of Artificial Intelligence, Kyung Hee University
             
 
 **Contact**  
-asdjklfgh97@khu.ac.kr                       
-https://geppa.github.io/[https://geppa.github.io/]
+asdjklfgh97@khu.ac.kr             
+[Personal Homepage](https://geppa.github.io/)                       
 #351, Electronic Information College Building, 1732 Deogyeong-daero, Giheung-gu, Yongin, Gyeonggi-do, 17104, South Korea  
 
 #### Research Interest
