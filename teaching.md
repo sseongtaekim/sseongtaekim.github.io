@@ -4,7 +4,12 @@ title: Teaching
 ---
 
 ### 2024
-#### Spring
+#### Fall
+- CSE203 Computer Architecture (Undergraduate) 
+- AI1003 Mathematics for Artificial Intelligence (Undergraduate)              
+- AI3008 Explainable and Reliable AI (Undergraduate)
+
+- #### Spring
 - CSE203 Computer Architecture (Undergraduate)
 - AI7001 AI and Ethics (Graduate)
   
