@@ -7,6 +7,14 @@ subtitle: Life in AI Lab
 <hr>
 
 ## 2024
+#### CVPR, June 2024                                                        
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/CVPR_1.jpg" width="500" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/CVPR_2.jpg" width="500" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/CVPR_3.jpg" width="500" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/CVPR_4.jpg" width="500" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/CVPR_5.jpg" width="500" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/CVPR_6.jpg" width="500" align="center"/>
+<img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/CVPR_7.jpg" width="500" align="center"/>
 #### Commencement, February 2024                                                        
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/Commencement24F-2.jpg" width="500" align="center"/>
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/photo/Commencement24F.jpg" width="500" align="center"/>
