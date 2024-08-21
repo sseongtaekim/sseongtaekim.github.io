@@ -15,6 +15,7 @@ Key Technologies: Explainability, Reliability, Responsibility, Data-Efficiency, 
 
 ### Recent News
 <hr>
+- Aug. 2024 Minkuk and Soyoun completed their MS program and joined as PhD students! Congrats!  
 - Jul. 2024 One paper got accepted to **ECCV 2024**! Congrats!
 - Jun. 2024 One paper got accepted to **MICCAI 2024**! Congrats Hyeon Bae, Yong Hyun!
 - Jun. 2024 One paper got accepted to **ICIP Workshop 2024**! Congrats Su Hyeon, Minkuk, Hyeon Bae!
