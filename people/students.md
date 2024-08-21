@@ -9,19 +9,18 @@ subtitle: AI Lab Family
 * [Yong Hyun Ahn](students/YongHyunAhn.md)
 * [Ameer Hamza](students/AmeerHamza.md)
 * [Samra Irshad](students/Sam.md)
+* [Minkuk Kim](students/MinKukKim.md)
+* [Soyoun Won](students/SoyeonOne.md)
 * [Ka Young Kim](students/KaYoungKim.md)
 * Rao Faizan
   
 #### MS students
-* [Minkuk Kim](students/MinKukKim.md)
-* [Soyoun Won](students/SoyeonOne.md)
 * [Abdullah](students/Abdullah.md)
 * [Hyeon Bae Kim](students/HyeonbaeKim.md)
 * Yebin Ji
 * [Oh Sung Choo](students/OhsungChoo.md)
 
 #### Undergraduate Interns
-* Soo Hyun Im
 * Heedong Kim
 * Jehyun Park
 
