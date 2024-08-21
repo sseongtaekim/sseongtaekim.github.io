@@ -9,7 +9,8 @@ subtitle: AI Lab Family
 #### Soyoun Won
   
 <img src="https://raw.githubusercontent.com/ailabkhu/ailabkhu.github.io/master/img/SoyeonOne.jpg" width="200" height="265" align="left" hspace="20" />
-Master Student (2022.9~)        
+PhD Student (2024.9~)        
+Master Student (2022.9~2024.8)   
 
 Department of Computer Science and Engineering, Kyung Hee University         
             
